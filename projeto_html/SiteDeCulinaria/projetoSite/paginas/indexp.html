@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+	<title>Docinhos da Dona Maria</title>
+	<meta charset="utf-8">
+	<meta name="description" content="Site de divulgação de receitas culinarias">
+  	<meta name="keywords" content="Receitas, culinarias, dicas, cozinha">
+  	<meta name="author" content="Paulo Arthur, Polyana Feitosa, Rebeca Yonara">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="shortcut icon" href="img/Layout-base/icon_logo.ico" />
+
+
+	<!--LINKS JS PADRÃO-->
+	<script type="text/javascript" src="js/padrao/menu.js"></script>
+	<script type="text/javascript" src="js/padrao/jquery.js"></script>
+	<script type="text/javascript" src="js/padrao/bootstrap.js"></script>
+	<script type="text/javascript" src="js/padrao/popper.js"></script>
+
+
+	<!--LINKS CSS PADRÃO-->
+	<link rel="stylesheet" type="text/css" href="../css/padrao/menu.css">
+	<link rel="stylesheet" type="text/css" href="../css/padrao/bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="../css/padrao/normalize.css">
+	<link rel="stylesheet" type="text/css" href="../css/padrao/layout_padrao.css">
+
+
+	<!-- LINKS JS DA PAGINA INDEX -->
+	<script type="text/javascript" src="js/votacao_estrelas.js"></script>
+
+	<!-- LINKS CSS DA PAGINA INDEX -->
+	<link rel="stylesheet" type="text/css" href="../css/paginas/layout_index.css">
+	<link rel="stylesheet" type="text/css" href="../css/paginas/layout_index.css_1200px">
+
+
+</head>
+<body>
+	<header>
+
+		<!-- DIV DO TOPO  -->
+		<div class="TOPO">
+			<!-- DIV PARA COLOCAR A IMAGEM -->
+			<div class="LOGO-TOPO"><a href="../index.html">
+				<img src="../img/Layout-base/LOGO_OFICIAL.png" alt="Logo do site" title="Logo">
+				</a>
+			</div>
+
+			<!-- DIV PARA A CAIXA DE BUSCA -->
+			<div class="FUNDO-CAIXA-DE-BUSCA">
+
+				<!-- BOTÃO DE BUSCAR -->
+				<div class="BOTAO-BUSCAR" id="BTN-BUSCAR" alt="Botão de pesquisa" title="Buscar"><!-- ID PARA UTILIZAR NA FUNÇÃO ONCLICK -->
+					<img src="../img/Layout-base/TOPO/BOTAO-BUSCAR.png">
+				</div>
+
+				<!-- CAIXA DE BUSCA TEXT-->
+				<input type="text" name="Caixa de Texto" class="CAIXA-DE-TEXTO" placeholder="BUSCAR..." alt="Barra de Busca" title="Digite aqui...">
+
+			</div>	
+
+			<!-- BOTÕES DE CADASTRAR E ENTRAR -->
+			<div>
+				<!-- DIV PARA O BOTÃO CADASTRAR -->
+				<a class="BOTOES-TOPO" href="#" title="Cadastre-se" alt="Botão para cadastrar">
+					<div class="BTN-CADASTRAR">
+						<img src="../img/Layout-base/TOPO/BOTAO-CADASTRAR.png">
+						<li>CADASTRE-SE</li>
+					</div>
+				</a>
+
+				<!-- DIV PARA O BOTÃO DE ENTRAR -->
+				<a class="BOTOES-TOPO" href="#" title="Entrar" alt="Botão para entrar">
+					<div class="BTN-ENTRAR">
+						<img src="../img/Layout-base/TOPO/BOTAO-ENTRAR.png">
+						<li>ENTRAR</li>
+					</div>
+				</a>
+			</div>
+
+
+		</div> <!-- FIM DA DIV DO TOPO-->
+
+		<!-- MENU DE INTERAÇÃO TOPO -->
+		<ul class="menu"> <!-- Esse é o 1 nivel ou o nivel principal -->
+			<li><a href="DONA-MARIA.html">DONA MARIA</a></li>
+			<li><a href="#">RECEITAS</a>
+				<ul class="submenu-1"> <!-- Esse é o 2 nivel ou o primeiro Drop Down -->
+					<li><a href="#">ACOMPANHAMENTOS</a></li>
+					<li><a href="#">AVES</a></li>
+					<li><a href="#">BEBIDAS</a></li>
+					<li><a href="#">BOLOS</a></li>
+					<li><a href="#">CARNES</a></li>
+					<li><a href="#">DOCES</a></li>
+					<li><a href="#">MASSAS</a></li>
+					<li><a href="#">PIZZA</a></li>
+					<li><a href="#">SALADAS</a></li>
+				</ul>
+			</li>
+			<li><a href="#">DICAS DE COZINHA</a></li>
+			<li><a href="#">FALE CONOSCO</a></li>
+			<li><a href="#">ENCOMENDAS</a></li>
+			<li><a href="indexp.html">ENVIE SUA RECEITA</a></li>
+
+		</ul>
+	</header>
+	
+	<main>
+
+	<table class="tabela">
+		<tbody>
+			<tr>
+				<td class="tabela">
+					
+					<!--LOCAL PARA ANUNCIO -->
+					<div class="LOCAL-ANUNCIO">
+						<p class="texto-anuncio">Receitas enviadas(0)</p>
+						<p class="texto-anuncio">Aprovados (0)</p>
+						<p class="texto-anuncio">Em aprovados (0)</p>
+						<p class="texto-anuncio">Reprovados (0)</p>
+					</div>
+					
+				</td>
+				<td>
+					<center>
+						<h1>Enviar Receita</h1>	
+					</center>
+					
+                
+                <fieldset>
+                    
+                    <p>
+                    	<label for="nome" class="nomeDaReceita">Nome da receita:</label>
+                        <input type="text" id="nome" name="nome" 
+                        placeholder="Nome da receita." class="nomeDaReceita-placeholder">
+                    </p>  
+                    
+                    <table>
+                    	<tbody>
+	                    	<tr>
+	                    		<td>
+	                    			<p>
+				                    	<label for="categoria" class="nomeDaReceita-tresdebaixo">Categoria:</label>
+				                        <select class="tresDeBaixo">
+				                        	<option><p class="texto-categoria">Selecione uma categoria:</p></option>
+				                        	<option>Aves</option>
+				                        	<option>Bebidas</option>
+				                        	<option>Bolos</option>
+				                        	<option>Carnes</option>
+				                        	<option>Doces</option>
+				                        	<option>Massas</option>
+				                        	<option>Pizzas</option>
+				                        	<option>Saladas</option>
+				                        </select>
+				                    </p>
+	                    		</td>
+	                    		<td>
+	                    			<div>
+	                    				<p class="margem-da-tabela">
+					                    	<label for="categoria" class="nomeDaReceita-tresdebaixo">Rendimento:</label>
+					                        <input type="text" id="categoria" name="categoria" 
+					                        placeholder="seleciona uma categoria." class="tresDeBaixo">
+					                    </p>
+	                    			</div class="margem-da-tabela">
+	                    		</td>
+	                    		<td>
+	                    			<div>
+	                    				<p class="margem-da-tabela">
+					                    	<label for="categoria" class="nomeDaReceita-tresdebaixo">Tempo de preparo:</label>
+					                        <input type="text" id="categoria" name="categoria" 
+					                        placeholder="Tempo em minutos." class="tresDeBaixo">
+					                    </p>
+	                    			</div class="margem-da-tabela">
+	                    		</td>
+	                    	</tr>
+						</tbody>
+                    </table>
+                    
+
+		<!-- CONTEUDO PRINCIPAL -->
+		<div class="ULTIMAS-RECEITAS">
+			
+			<div class="TITULO-UR">
+				<h3>Ultimas Receitas</h3>
+			</div>
+
+			<!-- RECEITA 01 -->
+			<div class="RECEITAS-CENTRO">
+				
+				<a href="#" alt="imagem de uma panqueca salgada ou doce" title="Panqueca salgada ou doce"><figure>
+					<img src="../img/Layout-index/Ultimas-Receitas/massa-para-panqueca-salgada-ou-doce.jpg">
+					<figcaption><p>Panqueca Salgada ou doce</p></figcaption>
+				</figure></a>
+
+			</div>
+
+
+			<!-- RECEITA 02 -->
+			<div class="RECEITAS-CENTRO">
+				
+				<a href="#" alt="imagem de Pizza hot-dog" title="Pizza Hot-Dog"><figure>
+					<img src="../img/Layout-index/Ultimas-Receitas/pizza-hot-dog.jpg">
+					<figcaption><p>Pizza de Hot-Dog</p></figcaption>
+				</figure></a>
+			</div>
+
+			<!-- RECEITA 03 -->
+			<div class="RECEITAS-CENTRO">
+				
+				<a href="#" alt="imagem de um Risoto Basico" title="Risoto Basico"><figure>
+					<img src="../img/Layout-index/Ultimas-Receitas/risoto-basico.jpg">
+					<figcaption><p>Risoto Basico</p></figcaption>
+				</figure></a>
+			</div>
+
+		</div>
+
+				</td>
+
+
+			</tr>
+
+
+		</tbody>
+
+	</table>
+		
+			 
+                   <div class="a-duas-barras">
+                    <p>
+                    	<label for="nome" class="barra">Ingredientes:</label>
+                        <input type="text" id="barrinha" name="nome" 
+                        placeholder="(Ex: 2 ovos)." class="nomeDaReceita-placeholder">
+                    </p> 
+
+                    
+                    <p>
+                    	<label for="nome" class="barra">Modo de preparo:</label>
+                        <input type="text" id="barrinha" name="nome" 
+                        placeholder="Descreva como deve ser o preparo" class="nomeDaReceita-placeholder">
+                    </p> 	
+				</div> 
+		
+		
+				<p>
+                	
+                    <input type="submit" id="enviar" value="ENVIAR">
+                                      
+                </p>   
+
+
+
+
+
+
+
+	</main>
+
+	<!-- RODAPÉ DO SITE-->
+
+	<footer>
+		<div class="RODAPE">
+			<img src="../img/Layout-base/RODAPE/LOGO-INSTAGRAM.svg">
+			<img src="../img/Layout-base/RODAPE/LOGO-FACEBOOK1.svg">
+			<img src="../img/Layout-base/RODAPE/LOGO-PHONE1.svg">
+			<img src="../img/Layout-base/RODAPE/LOGO-WHATSAPP1.svg">
+		</div>
+	</footer>
+
+</body>
+</html>

@@ -10,3 +10,6 @@
 * Java
 * Swift - Em desenvolvimento...
 * Android - Em desenvolvimento...
+
+### Outros
+* Design Digital (Gimp)

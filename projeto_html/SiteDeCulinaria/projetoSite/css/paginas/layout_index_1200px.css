@@ -1,0 +1,93 @@
+/* SE A TELA FOR MAIOR QUE 1200PX */
+@media screen and (max-width: 1200px){
+
+
+
+	/*LOCAL PARA O ANUNCIO*/
+
+	.LOCAL-ANUNCIO{
+		background-color: white;
+		width: 26%;
+		height: 245px;
+		border: 3px solid black;
+		margin-left: 74%;
+	}
+
+	/*TITULO ULTIMA RECEITAS*/
+	.TITULO-UR{
+		margin-bottom: 3%;
+	}
+
+
+	/*CONTEUDO CENTRAL */
+
+	.ULTIMAS-RECEITAS{
+		border: 1px solid black;
+		width: 71%;
+		height: 100%;
+		margin-top: 15px;
+		float: left;
+	}
+
+	.RECEITAS-CENTRO{
+		border: 1px solid black;
+		width: 244px;
+		height: 235px;
+		float: left;
+		background:rgba(255,255,255, 0.5);
+	}
+
+	.RECEITAS-CENTRO-LEFT{
+		margin-left: 40px;
+	}
+
+	.RECEITAS-CENTRO-TOP{
+		margin-top: 50px;
+	}
+
+
+	/*IMG DAS DIV DE ULTIMAS RECEITAS*/
+
+	.IMG-RECEITA-CENTRAL{
+		width: 100%;
+		height: 150px;
+		border-bottom: 1px solid black;
+	}
+
+	.IMG-RECEITA-CENTRAL img{
+		width: 100%;
+		height: 149px;
+	}
+
+	/* CONFIGURANDO OS LINKS (QUANDO O USUARIO PASSAR O MOUSE)*/
+	a:link, a:visited {
+		text-decoration: none;
+	}
+	a:hover {
+		text-decoration: underline; 
+		color: #fa8072;
+	}
+	a:active {
+		text-decoration: none;
+	}
+
+	.TEXTO-RECEITA{
+		text-align: center;
+		margin-top: 10px;
+	}
+	.TEXTO-RECEITA	h6{
+		margin: auto;
+		margin-bottom: 5px;
+		color: #000000;
+	}
+
+
+
+	.ULTIMAS-RECEITAS h3, h2, p{
+		text-align: center;
+	}
+
+
+	/*MELHORES-RECEITAS*/
+
+}

@@ -1,0 +1,250 @@
+
+/*CONTEUDO DO CARROSSEL */
+#main-carousel{
+	width: 71%;
+	height: 242px;
+	/*BORDA DENTRO DO CAROSEL
+	border: 3px solid black;*/
+	border: 1px solid black;
+	float: left;
+}
+
+#main-carousel h3{
+	color: white;
+	text-shadow: 2px 2px black;
+}
+
+#main-carousel p{
+	color: white;
+	text-shadow: 2px 2px black;
+}
+
+/*INNER DO BOOTSTRAP CARROSSEL TAMANHO*/
+.carousel-inner img {
+	width: 100%;
+	height: 240px;
+}
+
+
+/*LOCAL PARA O ANUNCIO*/
+
+.LOCAL-ANUNCIO{
+	background:rgba(255,255,255, 0.5);
+	width: 26%;
+	height: 245px;
+	border: 1px solid black;
+	margin-left: 74%;
+}
+
+/*TITULO ULTIMA RECEITAS*/
+.TITULO-UR{
+	margin-bottom: 3%;
+}
+
+
+/*CONTEUDO CENTRAL */
+
+.ULTIMAS-RECEITAS{
+	
+	width: 71%;
+	height: 100%;
+	margin-top: 15px;
+	float: left;
+}
+
+.RECEITAS-CENTRO{
+	border: 1px solid black;
+	/*width: 244px;*/
+	width: 30.05%;
+	height: 204px;
+	float: left;
+	background:rgba(255,255,255, 0.5);
+}
+.RECEITAS-CENTRO figure{
+	width: 100%;
+	height: 100%;
+	margin-top: 0px;
+	margin-left: 0px;
+	position: relative;
+}
+
+.RECEITAS-CENTRO figure figcaption{
+	opacity: 0;
+	position: absolute;
+	top:0px;
+	background-color: rgba(0,0,0,.4);
+	color: white;
+	width: 100%;
+	height: 80%;
+	padding: 10px;
+	box-sizing: border-box;
+	transition: opacity 1s;
+}
+
+.RECEITAS-CENTRO figure figcaption:hover{
+	opacity: 1;
+}
+
+.RECEITAS-CENTRO figure figcaption{
+	text-transform: uppercase;
+	text-decoration: underline;
+	position: absolute;
+	bottom: 0;
+}
+
+.RECEITAS-CENTRO figure img{
+	width: 100%;
+	height: 80%
+}
+
+.RECEITAS-CENTRO-LEFT{
+	margin-left: 40px;
+}
+
+.RECEITAS-CENTRO-TOP{
+	margin-top: 75px;
+}
+
+/* CONFIGURANDO OS LINKS (QUANDO O USUARIO PASSAR O MOUSE)*/
+a:link, a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline; 
+	color: #fa8072;
+}
+a:active {
+	text-decoration: none;
+}
+
+.TEXTO-RECEITA{
+	text-align: center;
+	margin-top: 10px;
+}
+.TEXTO-RECEITA	h6{
+	margin: auto;
+	margin-bottom: 5px;
+	color: #000000;
+}
+
+
+
+.ULTIMAS-RECEITAS h3, h2, p{
+	text-align: center;
+}
+
+
+/*MELHORES-RECEITAS*/
+
+
+
+
+.MELHORES-RECEITAS{
+	width: 26%;
+	height: 267px;
+	margin-top: 15px;
+	float: right;
+
+}
+
+.MELHORES-RECEITAS h3{
+	font-size: 25px;
+	text-align: center;
+	margin-top: 7px;
+}
+
+.M-RECEITA {
+	height: 60px;
+	width: 100%;
+	border: 1px solid black;
+	float: left;
+	background:rgba(255,255,255, 0.5);
+	margin-top: 13px;
+}
+
+
+.M-RECEITA figure{
+	
+	margin-left: 0px;
+	margin-top: 0px;
+}
+
+.M-RECEITA figure img{
+	border-right: 1px solid black;
+	height: 58px;
+	width: 80px;
+	float: left;
+}
+
+.DATA-MR{
+	margin-top: -20px;
+	margin-left: 90px;
+}
+
+.DATA-MR p{
+	font-size: 13px;
+	text-align: left;
+}
+
+.TITULO-MR p{
+	text-align: left;
+	font-size: 15px;
+}
+
+
+.TITULO-MR{
+	margin-left: 90px;
+	margin-top: -20px;
+}
+
+/*
+.M-RECEITA figure figcaption{
+	opacity: 0;
+	position: absolute;
+	background-color: rgba(0,0,0,.4);
+	color: white;
+	height: 60px;
+	width: 298px;
+	padding: 10px;
+	box-sizing: border-box;
+	transition: opacity 1s;
+}
+
+.M-RECEITA figure figcaption:hover{
+	opacity: 1;
+	}*/
+
+	.M-RECEITA a{
+		text-decoration: none;
+		color: inherit;
+	}
+	.M-RECEITA a:hover{
+		text-decoration: underline;
+		color: #fa8072;
+	}
+
+
+	/*ESTRELAS MELHORES RECEITAS*/
+	.M-RECEITA .rating:not(:checked) > label{
+		font-size: 20px;
+	}
+
+	.M-RECEITA .row{
+		margin-top: -25px;
+		margin-left: 90px;
+	}
+
+	.M-RECEITA .rating {
+		margin: unset;
+	}
+
+	/*MAIS-VOTADAS*/
+
+	.MAIS-VOTADAS{
+		background-color: white;
+		width: 26%;
+		height: 268px;
+		margin-top: 15px;
+		border: 3px solid black;
+		float: right;
+	}

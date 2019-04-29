@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+	<title>Docinhos da Dona Maria</title>
+	<meta charset="utf-8">
+	<meta name="description" content="Site de divulgação de receitas culinarias">
+	<meta name="keywords" content="Receitas, culinarias, dicas, cozinha">
+	<meta name="author" content="Paulo Arthur, Polyana Feitosa, Rebeca Yonara">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="shortcut icon" href="img/Layout-base/icon_logo.ico" />
+
+
+	<!--LINKS JS PADRÃO-->
+	<script type="text/javascript" src="js/padrao/menu.js"></script>
+	<script type="text/javascript" src="js/padrao/jquery.js"></script>
+	<script type="text/javascript" src="js/padrao/bootstrap.js"></script>
+	<script type="text/javascript" src="js/padrao/popper.js"></script>
+
+
+	<!--LINKS CSS PADRÃO-->
+	<link rel="stylesheet" type="text/css" href="css/padrao/menu.css">
+	<link rel="stylesheet" type="text/css" href="css/padrao/bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="css/padrao/normalize.css">
+	<link rel="stylesheet" type="text/css" href="css/padrao/layout_padrao.css">
+
+
+	<!-- LINKS JS DA PAGINA INDEX -->
+	<script type="text/javascript" src="js/votacao_estrelas.js"></script>
+
+	<!-- LINKS CSS DA PAGINA INDEX -->
+	<link rel="stylesheet" type="text/css" href="css/estrelas.css">
+	<link rel="stylesheet" type="text/css" href="css/layout_index.css">
+
+</head>
+<body>
+	<header>
+
+		<!-- DIV DO TOPO  -->
+		<div class="TOPO">
+			<!-- DIV PARA COLOCAR A IMAGEM -->
+			<div class="LOGO-TOPO"><a href="index.html">
+				<img src="img/Layout-base/LOGO_OFICIAL.png" alt="Logo do site" title="Logo">
+			</a>
+		</div>
+
+		<!-- DIV PARA A CAIXA DE BUSCA -->
+		<div class="FUNDO-CAIXA-DE-BUSCA">
+
+			<!-- BOTÃO DE BUSCAR -->
+			<div class="BOTAO-BUSCAR" id="BTN-BUSCAR" alt="Botão de pesquisa" title="Buscar"><!-- ID PARA UTILIZAR NA FUNÇÃO ONCLICK -->
+				<img src="img/Layout-base/TOPO/BOTAO-BUSCAR.png">
+			</div>
+
+			<!-- CAIXA DE BUSCA TEXT-->
+			<input type="text" name="Caixa de Texto" class="CAIXA-DE-TEXTO" placeholder="BUSCAR..." alt="Barra de Busca" title="Digite aqui...">
+
+		</div>	
+
+		<!-- BOTÕES DE CADASTRAR E ENTRAR -->
+		<div>
+			<!-- DIV PARA O BOTÃO CADASTRAR -->
+			<a class="BOTOES-TOPO" href="#" title="Cadastre-se" alt="Botão para cadastrar">
+				<div class="BTN-CADASTRAR">
+					<img src="img/Layout-base/TOPO/BOTAO-CADASTRAR.png">
+					<li>CADASTRE-SE</li>
+				</div>
+			</a>
+
+			<!-- DIV PARA O BOTÃO DE ENTRAR -->
+			<a class="BOTOES-TOPO" href="#" title="Entrar" alt="Botão para entrar">
+				<div class="BTN-ENTRAR">
+					<img src="img/Layout-base/TOPO/BOTAO-ENTRAR.png">
+					<li>ENTRAR</li>
+				</div>
+			</a>
+		</div>
+
+
+	</div> <!-- FIM DA DIV DO TOPO-->
+
+	<!-- MENU DE INTERAÇÃO TOPO -->
+	<ul class="menu"> <!-- Esse é o 1 nivel ou o nivel principal -->
+		<li><a href="paginas/DONA-MARIA.html">DONA MARIA</a></li>
+		<li><a href="#">RECEITAS</a>
+			<ul class="submenu-1"> <!-- Esse é o 2 nivel ou o primeiro Drop Down -->
+				<li><a href="#">ACOMPANHAMENTOS</a></li>
+				<li><a href="#">AVES</a></li>
+				<li><a href="#">BEBIDAS</a></li>
+				<li><a href="#">BOLOS</a></li>
+				<li><a href="#">CARNES</a></li>
+				<li><a href="#">DOCES</a></li>
+				<li><a href="#">MASSAS</a></li>
+				<li><a href="#">PIZZA</a></li>
+				<li><a href="#">SALADAS</a></li>
+			</ul>
+		</li>
+		<li><a href="#">DICAS DE COZINHA</a></li>
+		<li><a href="#">FALE CONOSCO</a></li>
+		<li><a href="#">ENCOMENDAS</a></li>
+		<li><a href="paginas/indexp.html">ENVIE SUA RECEITA</a></li>
+
+	</ul>
+</header>
+
+<main>
+	
+	<!--LOCAL DO CARROSEL -->
+	<div id="main-carousel">
+		<div id="demo" class="carousel slide" data-ride="carousel">
+			<ul class="carousel-indicators">
+				<li data-target="#demo" data-slide-to="0" class="active"></li>
+				<li data-target="#demo" data-slide-to="1"></li>
+				<li data-target="#demo" data-slide-to="2"></li>
+			</ul>
+			<div class="my--carrossel">
+				<div class="carousel-inner">
+					<div class="carousel-item active">
+						<img src="img/Layout-index/carrossel/receita-de-sagu-com-manga-e-maracuja.jpg" alt="Sagu com manga e maracuja">
+						<div class="carousel-caption">
+							<h3>Sagu com manga e maracujá</h3>
+							<p>Sobremesa fácil e deliciosa</p>
+						</div>   
+					</div>
+					<div class="carousel-item">
+						<img src="img/Layout-index/carrossel/sufle-de-batata.jpg" alt="Sufle de Batata" >
+						<div class="carousel-caption">
+							<h3>Suflê de batata</h3>
+							<p>Rapidíssimo e cheio de sabor!</p>
+						</div>   
+					</div>
+					<div class="carousel-item">
+						<img src="img/Layout-index/carrossel/pudim-de-leite-sem-forno.jpg" alt="Estrogonofe de frango">
+						<div class="carousel-caption">
+							<h3>Pudim de leite sem forno</h3>
+							<p>Sobremesa fácil e deliciosa</p>
+						</div>   
+					</div>
+				</div>
+				<a class="carousel-control-prev" href="#demo" data-slide="prev">
+					<span class="carousel-control-prev-icon"></span>
+				</a>
+				<a class="carousel-control-next" href="#demo" data-slide="next">
+					<span class="carousel-control-next-icon"></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	
+	<!--LOCAL PARA ANUNCIO -->
+	<div class="LOCAL-ANUNCIO">
+		
+		<h2 style="text-align: center;">LOCAL PARA ANUNCIO !</h2>
+
+	</div>
+
+
+	<!-- CONTEUDO PRINCIPAL -->
+	<div class="ULTIMAS-RECEITAS">
+		
+		<div class="TITULO-UR">
+			<h3>Ultimas Receitas</h3>
+		</div>
+
+		<!-- RECEITA 01 -->
+		<div class="RECEITAS-CENTRO">
+			
+			<a href="#" alt="imagem de uma panqueca salgada ou doce" title="Panqueca salgada ou doce"><figure>
+				<img src="img/Layout-index/Ultimas-Receitas/massa-para-panqueca-salgada-ou-doce.jpg">
+				<figcaption><p>Panqueca Salgada ou doce</p></figcaption>
+			</figure></a>
+
+			<!--CLASSIFICAÇÃO EM ESTRELAS-->
+
+			<div class="row">
+				<div class="rating">
+					<input type="radio" id="star5" name="rating" value="5" /><label for="star5" title="Meh">5 stars</label>
+					<input type="radio" id="star4" name="rating" value="4" /><label for="star4" title="Kinda bad">4 stars</label>
+					<input type="radio" id="star3" name="rating" value="3" /><label for="star3" title="Kinda bad">3 stars</label>
+					<input type="radio" id="star2" name="rating" value="2" /><label for="star2" title="Sucks big tim">2 stars</label>
+					<input type="radio" id="star1" name="rating" value="1" /><label for="star1" title="Sucks big time">1 star</label>
+				</div>
+			</div>
+
+		</div>
+
+
+		<!-- RECEITA 02 -->
+		<div class="RECEITAS-CENTRO RECEITAS-CENTRO-LEFT">
+			
+			<a href="#" alt="imagem de Pizza hot-dog" title="Pizza Hot-Dog"><figure>
+				<img src="img/Layout-index/Ultimas-Receitas/pizza-hot-dog.jpg">
+				<figcaption><p>Pizza de Hot-Dog</p></figcaption>
+			</figure></a>
+
+			<!--CLASSIFICAÇÃO EM ESTRELAS-->
+
+			<div class="row">
+				<div class="rating">
+					<input type="radio" id="star5" name="rating" value="5" /><label for="star5" title="Meh">5 stars</label>
+					<input type="radio" id="star4" name="rating" value="4" /><label for="star4" title="Kinda bad">4 stars</label>
+					<input type="radio" id="star3" name="rating" value="3" /><label for="star3" title="Kinda bad">3 stars</label>
+					<input type="radio" id="star2" name="rating" value="2" /><label for="star2" title="Sucks big tim">2 stars</label>
+					<input type="radio" id="star1" name="rating" value="1" /><label for="star1" title="Sucks big time">1 star</label>
+				</div>
+			</div>
+
+		</div>
+
+		<!-- RECEITA 03 -->
+		<div class="RECEITAS-CENTRO RECEITAS-CENTRO-LEFT">
+			
+			<a href="#" alt="imagem de um Risoto Basico" title="Risoto Basico"><figure>
+				<img src="img/Layout-index/Ultimas-Receitas/risoto-basico.jpg">
+				<figcaption><p>Risoto Basico</p></figcaption>
+			</figure></a>
+
+			<!--CLASSIFICAÇÃO EM ESTRELAS-->
+
+			<div class="row">
+				<div class="rating">
+					<input type="radio" id="star5" name="rating" value="5" /><label for="star5" title="Meh">5 stars</label>
+					<input type="radio" id="star4" name="rating" value="4" /><label for="star4" title="Kinda bad">4 stars</label>
+					<input type="radio" id="star3" name="rating" value="3" /><label for="star3" title="Kinda bad">3 stars</label>
+					<input type="radio" id="star2" name="rating" value="2" /><label for="star2" title="Sucks big tim">2 stars</label>
+					<input type="radio" id="star1" name="rating" value="1" /><label for="star1" title="Sucks big time">1 star</label>
+				</div>
+			</div>
+
+		</div>
+
+		<!-- RECEITA 04 -->
+		<div class="RECEITAS-CENTRO RECEITAS-CENTRO-TOP">
+			
+			<a href="#" alt="imagem de um Bolo Simples" title="Bolo Simples"><figure>
+				<img src="img/Layout-index/Ultimas-Receitas/Bolo_Simples.jpg">
+				<figcaption><p>Bolo Simples</p></figcaption>
+			</figure></a>
+
+			<!--CLASSIFICAÇÃO EM ESTRELAS-->
+
+			<div class="row">
+				<div class="rating">
+					<input type="radio" id="star5" name="rating" value="5" /><label for="star5" title="Meh">5 stars</label>
+					<input type="radio" id="star4" name="rating" value="4" /><label for="star4" title="Kinda bad">4 stars</label>
+					<input type="radio" id="star3" name="rating" value="3" /><label for="star3" title="Kinda bad">3 stars</label>
+					<input type="radio" id="star2" name="rating" value="2" /><label for="star2" title="Sucks big tim">2 stars</label>
+					<input type="radio" id="star1" name="rating" value="1" /><label for="star1" title="Sucks big time">1 star</label>
+				</div>
+			</div>
+
+		</div>
+
+		<!-- RECEITA 05 -->
+		<div class="RECEITAS-CENTRO RECEITAS-CENTRO-TOP RECEITAS-CENTRO-LEFT ">
+			
+			<a href="#" alt="imagem de uma torta de maça" title="Torta de Maça"><figure>
+				<img src="img/Layout-index/Ultimas-Receitas/Torta_de_maça.jpg">
+				<figcaption><p>Torta de Maça</p></figcaption>
+			</figure></a>
+
+			<!--CLASSIFICAÇÃO EM ESTRELAS-->
+
+			<div class="row">
+				<div class="rating">
+					<input type="radio" id="star5" name="rating" value="5" /><label for="star5" title="Meh">5 stars</label>
+					<input type="radio" id="star4" name="rating" value="4" /><label for="star4" title="Kinda bad">4 stars</label>
+					<input type="radio" id="star3" name="rating" value="3" /><label for="star3" title="Kinda bad">3 stars</label>
+					<input type="radio" id="star2" name="rating" value="2" /><label for="star2" title="Sucks big tim">2 stars</label>
+					<input type="radio" id="star1" name="rating" value="1" /><label for="star1" title="Sucks big time">1 star</label>
+				</div>
+			</div>
+
+		</div>
+
+		<!-- RECEITA 06 -->
+		<div class="RECEITAS-CENTRO RECEITAS-CENTRO-TOP RECEITAS-CENTRO-LEFT">
+			
+			<a href="#" alt="imagem de um brigadeiro de copinho" title="Brigadeiro de copinho"><figure>
+				<img src="img/Layout-index/Ultimas-Receitas/brigadeiro_de_copinho.jpg">
+				<figcaption><p>Brigadeiro de copinho</p></figcaption>
+			</figure></a>
+
+			<!--CLASSIFICAÇÃO EM ESTRELAS-->
+
+			<div class="row">
+				<div class="rating">
+					<input type="radio" id="star5" name="rating" value="5" /><label for="star5" title="Meh">5 stars</label>
+					<input type="radio" id="star4" name="rating" value="4" /><label for="star4" title="Kinda bad">4 stars</label>
+					<input type="radio" id="star3" name="rating" value="3" /><label for="star3" title="Kinda bad">3 stars</label>
+					<input type="radio" id="star2" name="rating" value="2" /><label for="star2" title="Sucks big tim">2 stars</label>
+					<input type="radio" id="star1" name="rating" value="1" /><label for="star1" title="Sucks big time">1 star</label>
+				</div>
+			</div>
+
+		</div>
+
+
+		
+
+
+	</div>
+	<!-- MELHORES RECEITAS -->
+	<div class="MELHORES-RECEITAS">
+		<h3>Melhores Receitas</h3>
+		<!-- MELHORE RECEITA 01 -->
+
+		<div class="M-RECEITA">
+
+			<figure>
+				<a href="#" >
+					<img  alt="Imagem de rolinho de panqueca" title="Rolinho de panqueca" src="img/Layout-index/Melhores-Receitas/rolinho-de-panqueca.jpg">
+				</figure>
+				<div class="TITULO-MR">
+					
+					<p>Rolinho de Panqueca</p>
+				</a>
+			</div>
+			<div class="DATA-MR">
+				<p>20-04-2018</p>
+
+			</div>
+
+
+
+			<div class="row">
+				<div class="rating">
+					<input type="radio" id="star5" name="rating" value="5" /><label for="star5" title="Meh">5 stars</label>
+					<input type="radio" id="star4" name="rating" value="4" /><label for="star4" title="Kinda bad">4 stars</label>
+					<input type="radio" id="star3" name="rating" value="3" /><label for="star3" title="Kinda bad">3 stars</label>
+					<input type="radio" id="star2" name="rating" value="2" /><label for="star2" title="Sucks big tim">2 stars</label>
+					<input type="radio" id="star1" name="rating" value="1" /><label for="star1" title="Sucks big time">1 star</label>
+				</div>
+			</div>		
+		</div>
+
+
+		<!-- MELHORE RECEITA 02 -->
+		<div class="M-RECEITA">
+			<figure>
+				<a href="#">
+					<img src="img/Layout-index/Melhores-Receitas/risoto-de-tomatinho-e-queijo-Brie.jpg">
+				</figure>
+				<div class="TITULO-MR">
+					<p>Risoto de tomate e queijo brie</p>
+				</a>
+			</div>
+			<div class="DATA-MR">
+				<p>10-08-2018</p>
+			</div>
+
+
+
+			<div class="row">
+				<div class="rating">
+					<input type="radio" id="star5" name="rating" value="5" /><label for="star5" title="Meh">5 stars</label>
+					<input type="radio" id="star4" name="rating" value="4" /><label for="star4" title="Kinda bad">4 stars</label>
+					<input type="radio" id="star3" name="rating" value="3" /><label for="star3" title="Kinda bad">3 stars</label>
+					<input type="radio" id="star2" name="rating" value="2" /><label for="star2" title="Sucks big tim">2 stars</label>
+					<input type="radio" id="star1" name="rating" value="1" /><label for="star1" title="Sucks big time">1 star</label>
+				</div>
+			</div>		
+		</div>
+
+
+		<!-- MELHORE RECEITA 03 -->
+		<div class="M-RECEITA">
+			<figure>
+				<a href="#">
+					<img src="img/Layout-index/Melhores-Receitas/nhoque-frito-de-batata.jpg">
+				</figure>
+				<div class="TITULO-MR">
+					<p>Nhoque frito de batata</p>
+				</a>
+			</div>
+			<div class="DATA-MR">
+				<p>25-11-2018</p>
+			</div>
+
+
+
+			<div class="row">
+				<div class="rating">
+					<input type="radio" id="star5" name="rating" value="5" /><label for="star5" title="Meh">5 stars</label>
+					<input type="radio" id="star4" name="rating" value="4" /><label for="star4" title="Kinda bad">4 stars</label>
+					<input type="radio" id="star3" name="rating" value="3" /><label for="star3" title="Kinda bad">3 stars</label>
+					<input type="radio" id="star2" name="rating" value="2" /><label for="star2" title="Sucks big tim">2 stars</label>
+					<input type="radio" id="star1" name="rating" value="1" /><label for="star1" title="Sucks big time">1 star</label>
+				</div>
+			</div>		
+		</div>
+
+	</div>
+
+
+	<!--RECEITAS MAIS VOTADAS-->
+	<div class="MELHORES-RECEITAS">
+		<h3>Mais Votadas</h3>
+		<!-- Mais Votadas 01 -->
+		<div class="M-RECEITA">
+			<figure>
+				<a href="#">
+					<img src="img/Layout-index/Mais-Votadas/torta-holandesa-especial.jpg">
+				</figure>
+				<div class="TITULO-MR">
+					<p>Torta Holandesa Especial</p>
+				</a>
+			</div>
+			<div class="DATA-MR">
+				<p>15-09-2018</p>
+			</div>
+
+
+
+			<div class="row">
+				<div class="rating">
+					<input type="radio" id="star5" name="rating" value="5" /><label for="star5" title="Meh">5 stars</label>
+					<input type="radio" id="star4" name="rating" value="4" /><label for="star4" title="Kinda bad">4 stars</label>
+					<input type="radio" id="star3" name="rating" value="3" /><label for="star3" title="Kinda bad">3 stars</label>
+					<input type="radio" id="star2" name="rating" value="2" /><label for="star2" title="Sucks big tim">2 stars</label>
+					<input type="radio" id="star1" name="rating" value="1" /><label for="star1" title="Sucks big time">1 star</label>
+				</div>
+			</div>		
+		</div>
+
+
+		<!-- Mais Votadas 02 -->
+		<div class="M-RECEITA">
+			<figure>
+				<a href="#">
+					<img src="img/Layout-index/Mais-Votadas/pudim-de-abacaxi.jpg">
+				</figure>
+				<div class="TITULO-MR">
+					<p>Pudim de Abacaxi</p>
+				</a>
+			</div>
+			<div class="DATA-MR">
+				<p>12-02-2018</p>
+			</div>
+
+
+
+			<div class="row">
+				<div class="rating">
+					<input type="radio" id="star5" name="rating" value="5" /><label for="star5" title="Meh">5 stars</label>
+					<input type="radio" id="star4" name="rating" value="4" /><label for="star4" title="Kinda bad">4 stars</label>
+					<input type="radio" id="star3" name="rating" value="3" /><label for="star3" title="Kinda bad">3 stars</label>
+					<input type="radio" id="star2" name="rating" value="2" /><label for="star2" title="Sucks big tim">2 stars</label>
+					<input type="radio" id="star1" name="rating" value="1" /><label for="star1" title="Sucks big time">1 star</label>
+				</div>
+			</div>		
+		</div>
+
+
+		<!-- Mais votadas 03 -->
+		<div class="M-RECEITA">
+			<figure>
+				<a href="#">
+					<img src="img/Layout-index/Mais-Votadas/bolinho-de-chuva-sem-ovo.jpg">
+				</figure>
+				<div class="TITULO-MR">
+					<p>Bolinho de chuva sem ovo</p>
+				</a>
+			</div>
+			<div class="DATA-MR">
+				<p>10-03-2018</p>
+			</div>
+
+
+
+			<div class="row">
+				<div class="rating">
+					<input type="radio" id="star5" name="rating" value="5" /><label for="star5" title="Meh">5 stars</label>
+					<input type="radio" id="star4" name="rating" value="4" /><label for="star4" title="Kinda bad">4 stars</label>
+					<input type="radio" id="star3" name="rating" value="3" /><label for="star3" title="Kinda bad">3 stars</label>
+					<input type="radio" id="star2" name="rating" value="2" /><label for="star2" title="Sucks big tim">2 stars</label>
+					<input type="radio" id="star1" name="rating" value="1" /><label for="star1" title="Sucks big time">1 star</label>
+				</div>
+			</div>		
+		</div>
+
+	</div>
+
+
+
+
+
+</main>
+
+<!-- RODAPÉ DO SITE-->
+
+<footer>
+	<div class="RODAPE">
+		<img src="img/Layout-base/RODAPE/LOGO-INSTAGRAM.svg">
+		<img src="img/Layout-base/RODAPE/LOGO-FACEBOOK1.svg">
+		<img src="img/Layout-base/RODAPE/LOGO-PHONE1.svg">
+		<img src="img/Layout-base/RODAPE/LOGO-WHATSAPP1.svg">
+	</div>
+</footer>
+
+</body>
+</html>
