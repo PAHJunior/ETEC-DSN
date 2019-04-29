@@ -1,0 +1,8 @@
+C:\Users\Casa\Documents\SharpDevelop Projects\projetoTabuleiro\projetoTabuleiro\obj\Debug\projetoTabuleiro.csprojResolveAssemblyReference.cache
+C:\Users\Casa\Documents\SharpDevelop Projects\projetoTabuleiro\projetoTabuleiro\obj\Debug\projetoTabuleiro.MainForm.resources
+C:\Users\Casa\Documents\SharpDevelop Projects\projetoTabuleiro\projetoTabuleiro\obj\Debug\projetoTabuleiro.csproj.GenerateResource.Cache
+C:\Users\Casa\Documents\SharpDevelop Projects\projetoTabuleiro\projetoTabuleiro\bin\Debug\projetoTabuleiro.exe.config
+C:\Users\Casa\Documents\SharpDevelop Projects\projetoTabuleiro\projetoTabuleiro\bin\Debug\projetoTabuleiro.exe
+C:\Users\Casa\Documents\SharpDevelop Projects\projetoTabuleiro\projetoTabuleiro\bin\Debug\projetoTabuleiro.pdb
+C:\Users\Casa\Documents\SharpDevelop Projects\projetoTabuleiro\projetoTabuleiro\obj\Debug\projetoTabuleiro.exe
+C:\Users\Casa\Documents\SharpDevelop Projects\projetoTabuleiro\projetoTabuleiro\obj\Debug\projetoTabuleiro.pdb

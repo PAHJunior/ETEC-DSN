@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "salvarArquivos", "salvarArquivos\salvarArquivos.csproj", "{BF779AFD-3CCE-41BA-B41E-974C1D3A06E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quadricoladoColorido", "quadricoladoColorido\quadricoladoColorido.csproj", "{36C30138-4C23-45DB-959F-58F672EBCF73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF779AFD-3CCE-41BA-B41E-974C1D3A06E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF779AFD-3CCE-41BA-B41E-974C1D3A06E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF779AFD-3CCE-41BA-B41E-974C1D3A06E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF779AFD-3CCE-41BA-B41E-974C1D3A06E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36C30138-4C23-45DB-959F-58F672EBCF73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36C30138-4C23-45DB-959F-58F672EBCF73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36C30138-4C23-45DB-959F-58F672EBCF73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36C30138-4C23-45DB-959F-58F672EBCF73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

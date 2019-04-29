@@ -1,0 +1,6 @@
+C:\Users\Casa\Documents\SharpDevelop Projects\atividade_19\atividade_19\bin\Debug\atividade_19.exe.config
+C:\Users\Casa\Documents\SharpDevelop Projects\atividade_19\atividade_19\bin\Debug\atividade_19.exe
+C:\Users\Casa\Documents\SharpDevelop Projects\atividade_19\atividade_19\bin\Debug\atividade_19.pdb
+C:\Users\Casa\Documents\SharpDevelop Projects\atividade_19\atividade_19\obj\Debug\atividade_19.csprojResolveAssemblyReference.cache
+C:\Users\Casa\Documents\SharpDevelop Projects\atividade_19\atividade_19\obj\Debug\atividade_19.exe
+C:\Users\Casa\Documents\SharpDevelop Projects\atividade_19\atividade_19\obj\Debug\atividade_19.pdb

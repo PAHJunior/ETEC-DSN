@@ -1,0 +1,8 @@
+C:\Users\Casa\Documents\SharpDevelop Projects\gif\gif\bin\Debug\gif.exe.config
+C:\Users\Casa\Documents\SharpDevelop Projects\gif\gif\bin\Debug\gif.exe
+C:\Users\Casa\Documents\SharpDevelop Projects\gif\gif\bin\Debug\gif.pdb
+C:\Users\Casa\Documents\SharpDevelop Projects\gif\gif\obj\Debug\gif.csprojResolveAssemblyReference.cache
+C:\Users\Casa\Documents\SharpDevelop Projects\gif\gif\obj\Debug\gif.MainForm.resources
+C:\Users\Casa\Documents\SharpDevelop Projects\gif\gif\obj\Debug\gif.csproj.GenerateResource.Cache
+C:\Users\Casa\Documents\SharpDevelop Projects\gif\gif\obj\Debug\gif.exe
+C:\Users\Casa\Documents\SharpDevelop Projects\gif\gif\obj\Debug\gif.pdb

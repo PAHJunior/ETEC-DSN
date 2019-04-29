@@ -1,0 +1,8 @@
+C:\Users\Casa\Documents\SharpDevelop Projects\raizQuadra\raizQuadra\obj\Debug\raizQuadra.csprojResolveAssemblyReference.cache
+C:\Users\Casa\Documents\SharpDevelop Projects\raizQuadra\raizQuadra\obj\Debug\raizQuadra.MainForm.resources
+C:\Users\Casa\Documents\SharpDevelop Projects\raizQuadra\raizQuadra\obj\Debug\raizQuadra.csproj.GenerateResource.Cache
+C:\Users\Casa\Documents\SharpDevelop Projects\raizQuadra\raizQuadra\bin\Debug\raizQuadra.exe.config
+C:\Users\Casa\Documents\SharpDevelop Projects\raizQuadra\raizQuadra\bin\Debug\raizQuadra.exe
+C:\Users\Casa\Documents\SharpDevelop Projects\raizQuadra\raizQuadra\bin\Debug\raizQuadra.pdb
+C:\Users\Casa\Documents\SharpDevelop Projects\raizQuadra\raizQuadra\obj\Debug\raizQuadra.exe
+C:\Users\Casa\Documents\SharpDevelop Projects\raizQuadra\raizQuadra\obj\Debug\raizQuadra.pdb

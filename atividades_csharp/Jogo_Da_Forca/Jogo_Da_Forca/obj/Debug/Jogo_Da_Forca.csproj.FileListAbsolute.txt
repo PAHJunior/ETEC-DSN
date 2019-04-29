@@ -1,0 +1,8 @@
+C:\Users\Casa\Documents\SharpDevelop Projects\Jogo_Da_Forca\Jogo_Da_Forca\bin\Debug\Jogo_Da_Forca.exe.config
+C:\Users\Casa\Documents\SharpDevelop Projects\Jogo_Da_Forca\Jogo_Da_Forca\bin\Debug\Jogo_Da_Forca.exe
+C:\Users\Casa\Documents\SharpDevelop Projects\Jogo_Da_Forca\Jogo_Da_Forca\bin\Debug\Jogo_Da_Forca.pdb
+C:\Users\Casa\Documents\SharpDevelop Projects\Jogo_Da_Forca\Jogo_Da_Forca\obj\Debug\Jogo_Da_Forca.csprojResolveAssemblyReference.cache
+C:\Users\Casa\Documents\SharpDevelop Projects\Jogo_Da_Forca\Jogo_Da_Forca\obj\Debug\Jogo_Da_Forca.csproj.GenerateResource.Cache
+C:\Users\Casa\Documents\SharpDevelop Projects\Jogo_Da_Forca\Jogo_Da_Forca\obj\Debug\Jogo_Da_Forca.exe
+C:\Users\Casa\Documents\SharpDevelop Projects\Jogo_Da_Forca\Jogo_Da_Forca\obj\Debug\Jogo_Da_Forca.pdb
+C:\Users\Casa\Documents\SharpDevelop Projects\Jogo_Da_Forca\Jogo_Da_Forca\obj\Debug\Jogo_Da_Forca.JogoDaForca.resources

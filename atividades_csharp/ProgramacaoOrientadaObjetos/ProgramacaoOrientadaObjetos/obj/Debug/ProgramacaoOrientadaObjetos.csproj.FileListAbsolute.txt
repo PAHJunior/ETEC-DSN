@@ -1,0 +1,10 @@
+C:\Users\aluno.etec\source\repos\ProgramacaoOrientadaObjetos\ProgramacaoOrientadaObjetos\bin\Debug\ProgramacaoOrientadaObjetos.exe.config
+C:\Users\aluno.etec\source\repos\ProgramacaoOrientadaObjetos\ProgramacaoOrientadaObjetos\bin\Debug\ProgramacaoOrientadaObjetos.exe
+C:\Users\aluno.etec\source\repos\ProgramacaoOrientadaObjetos\ProgramacaoOrientadaObjetos\bin\Debug\ProgramacaoOrientadaObjetos.pdb
+C:\Users\aluno.etec\source\repos\ProgramacaoOrientadaObjetos\ProgramacaoOrientadaObjetos\obj\Debug\ProgramacaoOrientadaObjetos.csprojAssemblyReference.cache
+C:\Users\aluno.etec\source\repos\ProgramacaoOrientadaObjetos\ProgramacaoOrientadaObjetos\obj\Debug\ProgramacaoOrientadaObjetos.Form1.resources
+C:\Users\aluno.etec\source\repos\ProgramacaoOrientadaObjetos\ProgramacaoOrientadaObjetos\obj\Debug\ProgramacaoOrientadaObjetos.Properties.Resources.resources
+C:\Users\aluno.etec\source\repos\ProgramacaoOrientadaObjetos\ProgramacaoOrientadaObjetos\obj\Debug\ProgramacaoOrientadaObjetos.csproj.GenerateResource.cache
+C:\Users\aluno.etec\source\repos\ProgramacaoOrientadaObjetos\ProgramacaoOrientadaObjetos\obj\Debug\ProgramacaoOrientadaObjetos.csproj.CoreCompileInputs.cache
+C:\Users\aluno.etec\source\repos\ProgramacaoOrientadaObjetos\ProgramacaoOrientadaObjetos\obj\Debug\ProgramacaoOrientadaObjetos.exe
+C:\Users\aluno.etec\source\repos\ProgramacaoOrientadaObjetos\ProgramacaoOrientadaObjetos\obj\Debug\ProgramacaoOrientadaObjetos.pdb

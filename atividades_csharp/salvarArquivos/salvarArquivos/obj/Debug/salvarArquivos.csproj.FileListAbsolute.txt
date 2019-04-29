@@ -1,0 +1,8 @@
+C:\Users\Casa\Documents\SharpDevelop Projects\salvarArquivos\salvarArquivos\bin\Debug\salvarArquivos.exe.config
+C:\Users\Casa\Documents\SharpDevelop Projects\salvarArquivos\salvarArquivos\bin\Debug\salvarArquivos.exe
+C:\Users\Casa\Documents\SharpDevelop Projects\salvarArquivos\salvarArquivos\bin\Debug\salvarArquivos.pdb
+C:\Users\Casa\Documents\SharpDevelop Projects\salvarArquivos\salvarArquivos\obj\Debug\salvarArquivos.csprojResolveAssemblyReference.cache
+C:\Users\Casa\Documents\SharpDevelop Projects\salvarArquivos\salvarArquivos\obj\Debug\salvarArquivos.MainForm.resources
+C:\Users\Casa\Documents\SharpDevelop Projects\salvarArquivos\salvarArquivos\obj\Debug\salvarArquivos.csproj.GenerateResource.Cache
+C:\Users\Casa\Documents\SharpDevelop Projects\salvarArquivos\salvarArquivos\obj\Debug\salvarArquivos.exe
+C:\Users\Casa\Documents\SharpDevelop Projects\salvarArquivos\salvarArquivos\obj\Debug\salvarArquivos.pdb

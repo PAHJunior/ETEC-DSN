@@ -1,0 +1,8 @@
+C:\Users\Casa\Documents\SharpDevelop Projects\CalcularMedia\CalcularMedia\bin\Debug\CalcularMedia.exe.config
+C:\Users\Casa\Documents\SharpDevelop Projects\CalcularMedia\CalcularMedia\bin\Debug\CalcularMedia.exe
+C:\Users\Casa\Documents\SharpDevelop Projects\CalcularMedia\CalcularMedia\bin\Debug\CalcularMedia.pdb
+C:\Users\Casa\Documents\SharpDevelop Projects\CalcularMedia\CalcularMedia\obj\Debug\CalcularMedia.csprojResolveAssemblyReference.cache
+C:\Users\Casa\Documents\SharpDevelop Projects\CalcularMedia\CalcularMedia\obj\Debug\CalcularMedia.MainForm.resources
+C:\Users\Casa\Documents\SharpDevelop Projects\CalcularMedia\CalcularMedia\obj\Debug\CalcularMedia.csproj.GenerateResource.Cache
+C:\Users\Casa\Documents\SharpDevelop Projects\CalcularMedia\CalcularMedia\obj\Debug\CalcularMedia.exe
+C:\Users\Casa\Documents\SharpDevelop Projects\CalcularMedia\CalcularMedia\obj\Debug\CalcularMedia.pdb

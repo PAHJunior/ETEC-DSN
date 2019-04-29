@@ -1,0 +1,21 @@
+{
+  "name": "AdmRegSul",
+  "short_name": "Intranet Administração Regional Sul - CCB",
+  "start_url": "http://localhost/regsul/",
+  "display": "standalone",
+  "background_color": "#eee",
+  "theme_color": "#f00",
+  "description": "Intranet Cinpal.",
+  "orientation": "portrait",
+  "icons": [{
+    "src": "http://localhost/regsul/assets/img/logo.ico",
+    "sizes": "48x48",
+    "type": "image/png"
+  }],
+  "related_applications": [{
+    "platform": "web"
+  }, {
+    "platform": "play",
+    "url": ""
+  }]
+}

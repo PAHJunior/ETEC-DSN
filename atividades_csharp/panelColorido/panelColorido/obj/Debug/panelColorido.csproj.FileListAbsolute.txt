@@ -1,0 +1,8 @@
+C:\Users\Casa\Documents\SharpDevelop Projects\panelColorido\panelColorido\bin\Debug\panelColorido.exe.config
+C:\Users\Casa\Documents\SharpDevelop Projects\panelColorido\panelColorido\bin\Debug\panelColorido.exe
+C:\Users\Casa\Documents\SharpDevelop Projects\panelColorido\panelColorido\bin\Debug\panelColorido.pdb
+C:\Users\Casa\Documents\SharpDevelop Projects\panelColorido\panelColorido\obj\Debug\panelColorido.csprojResolveAssemblyReference.cache
+C:\Users\Casa\Documents\SharpDevelop Projects\panelColorido\panelColorido\obj\Debug\panelColorido.MainForm.resources
+C:\Users\Casa\Documents\SharpDevelop Projects\panelColorido\panelColorido\obj\Debug\panelColorido.csproj.GenerateResource.Cache
+C:\Users\Casa\Documents\SharpDevelop Projects\panelColorido\panelColorido\obj\Debug\panelColorido.exe
+C:\Users\Casa\Documents\SharpDevelop Projects\panelColorido\panelColorido\obj\Debug\panelColorido.pdb

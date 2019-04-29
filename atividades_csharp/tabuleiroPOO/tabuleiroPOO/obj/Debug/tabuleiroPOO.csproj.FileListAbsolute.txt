@@ -1,0 +1,13 @@
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\tabuleiroPOO\tabuleiroPOO\bin\Debug\tabuleiroPOO.exe
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\tabuleiroPOO\tabuleiroPOO\bin\Debug\tabuleiroPOO.pdb
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.csprojResolveAssemblyReference.cache
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.MainForm.resources
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.csproj.GenerateResource.Cache
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.exe
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.pdb
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.Form1.resources
+E:\ETEC\DS1\2 Modulo\csharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.csprojResolveAssemblyReference.cache
+E:\ETEC\DS1\2 Modulo\csharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.Form1.resources
+E:\ETEC\DS1\2 Modulo\csharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.MainForm.resources
+E:\ETEC\DS1\2 Modulo\csharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.csproj.GenerateResource.Cache
+E:\ETEC\DS1\2 Modulo\csharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.exe

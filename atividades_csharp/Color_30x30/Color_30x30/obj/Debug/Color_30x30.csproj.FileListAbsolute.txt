@@ -1,0 +1,8 @@
+C:\Users\Casa\Documents\SharpDevelop Projects\Color_30x30\Color_30x30\bin\Debug\Color_30x30.exe.config
+C:\Users\Casa\Documents\SharpDevelop Projects\Color_30x30\Color_30x30\bin\Debug\Color_30x30.exe
+C:\Users\Casa\Documents\SharpDevelop Projects\Color_30x30\Color_30x30\bin\Debug\Color_30x30.pdb
+C:\Users\Casa\Documents\SharpDevelop Projects\Color_30x30\Color_30x30\obj\Debug\Color_30x30.csprojResolveAssemblyReference.cache
+C:\Users\Casa\Documents\SharpDevelop Projects\Color_30x30\Color_30x30\obj\Debug\Color_30x30.MainForm.resources
+C:\Users\Casa\Documents\SharpDevelop Projects\Color_30x30\Color_30x30\obj\Debug\Color_30x30.csproj.GenerateResource.Cache
+C:\Users\Casa\Documents\SharpDevelop Projects\Color_30x30\Color_30x30\obj\Debug\Color_30x30.exe
+C:\Users\Casa\Documents\SharpDevelop Projects\Color_30x30\Color_30x30\obj\Debug\Color_30x30.pdb

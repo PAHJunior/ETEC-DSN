@@ -1,0 +1,6 @@
+C:\Users\Casa\Documents\SharpDevelop Projects\Atividade_16\Atividade_16\bin\Debug\Atividade_16.exe.config
+C:\Users\Casa\Documents\SharpDevelop Projects\Atividade_16\Atividade_16\bin\Debug\Atividade_16.exe
+C:\Users\Casa\Documents\SharpDevelop Projects\Atividade_16\Atividade_16\bin\Debug\Atividade_16.pdb
+C:\Users\Casa\Documents\SharpDevelop Projects\Atividade_16\Atividade_16\obj\Debug\Atividade_16.csprojResolveAssemblyReference.cache
+C:\Users\Casa\Documents\SharpDevelop Projects\Atividade_16\Atividade_16\obj\Debug\Atividade_16.exe
+C:\Users\Casa\Documents\SharpDevelop Projects\Atividade_16\Atividade_16\obj\Debug\Atividade_16.pdb
