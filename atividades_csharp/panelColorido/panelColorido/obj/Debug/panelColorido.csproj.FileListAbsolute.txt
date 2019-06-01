@@ -6,3 +6,11 @@ C:\Users\Casa\Documents\SharpDevelop Projects\panelColorido\panelColorido\obj\De
 C:\Users\Casa\Documents\SharpDevelop Projects\panelColorido\panelColorido\obj\Debug\panelColorido.csproj.GenerateResource.Cache
 C:\Users\Casa\Documents\SharpDevelop Projects\panelColorido\panelColorido\obj\Debug\panelColorido.exe
 C:\Users\Casa\Documents\SharpDevelop Projects\panelColorido\panelColorido\obj\Debug\panelColorido.pdb
+D:\ETEC-DSN\atividades_csharp\panelColorido\panelColorido\bin\Debug\panelColorido.exe.config
+D:\ETEC-DSN\atividades_csharp\panelColorido\panelColorido\bin\Debug\panelColorido.exe
+D:\ETEC-DSN\atividades_csharp\panelColorido\panelColorido\bin\Debug\panelColorido.pdb
+D:\ETEC-DSN\atividades_csharp\panelColorido\panelColorido\obj\Debug\panelColorido.csprojResolveAssemblyReference.cache
+D:\ETEC-DSN\atividades_csharp\panelColorido\panelColorido\obj\Debug\panelColorido.MainForm.resources
+D:\ETEC-DSN\atividades_csharp\panelColorido\panelColorido\obj\Debug\panelColorido.csproj.GenerateResource.Cache
+D:\ETEC-DSN\atividades_csharp\panelColorido\panelColorido\obj\Debug\panelColorido.exe
+D:\ETEC-DSN\atividades_csharp\panelColorido\panelColorido\obj\Debug\panelColorido.pdb

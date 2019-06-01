@@ -6,3 +6,11 @@ C:\Users\Casa\Documents\SharpDevelop Projects\Color_30x30\Color_30x30\obj\Debug\
 C:\Users\Casa\Documents\SharpDevelop Projects\Color_30x30\Color_30x30\obj\Debug\Color_30x30.csproj.GenerateResource.Cache
 C:\Users\Casa\Documents\SharpDevelop Projects\Color_30x30\Color_30x30\obj\Debug\Color_30x30.exe
 C:\Users\Casa\Documents\SharpDevelop Projects\Color_30x30\Color_30x30\obj\Debug\Color_30x30.pdb
+D:\ETEC-DSN\atividades_csharp\Color_30x30\Color_30x30\bin\Debug\Color_30x30.exe.config
+D:\ETEC-DSN\atividades_csharp\Color_30x30\Color_30x30\bin\Debug\Color_30x30.exe
+D:\ETEC-DSN\atividades_csharp\Color_30x30\Color_30x30\bin\Debug\Color_30x30.pdb
+D:\ETEC-DSN\atividades_csharp\Color_30x30\Color_30x30\obj\Debug\Color_30x30.csprojResolveAssemblyReference.cache
+D:\ETEC-DSN\atividades_csharp\Color_30x30\Color_30x30\obj\Debug\Color_30x30.MainForm.resources
+D:\ETEC-DSN\atividades_csharp\Color_30x30\Color_30x30\obj\Debug\Color_30x30.csproj.GenerateResource.Cache
+D:\ETEC-DSN\atividades_csharp\Color_30x30\Color_30x30\obj\Debug\Color_30x30.exe
+D:\ETEC-DSN\atividades_csharp\Color_30x30\Color_30x30\obj\Debug\Color_30x30.pdb
