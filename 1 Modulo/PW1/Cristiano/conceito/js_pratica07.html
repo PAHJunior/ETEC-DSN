@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+	<title>PW1 JAVASCRIPT</title>
+	<meta charset="utf-8">
+
+</style>
+
+</head>
+
+<body>
+	</h1>PW1 - JAVASCRIPT</h1>
+	<input type="text" id="nomeID">
+	<p><button onclick="enviarForm()">Enviar</button></p>
+	
+	<p id="pID">TESTE</p>
+	
+	<div class="radio">
+		<p>Vermelho<input type="radio" name="Red"></p>
+		<p>Azul<input type="radio" name="Blue"></p>
+		<p>Amarelo<input type="radio" name="Yellow"></p>
+		<p>Rosa<input type="radio" name="Pink"></p>
+	</div>
+
+
+<script>
+		
+		//Variavel em array
+		var cor = ["vermelho",
+				   "azul",
+				   "amarelo",
+				   "rosa"];
+		var radio = document.getElementsByClassName("radio");
+
+		
+		switch	(cor){
+
+			case 1:
+				console.log("A cor é vermelha");
+				break;
+
+			case 2:
+				console.log("Azul");
+				break;
+
+
+		}
+
+
+
+		var cor = document.getElementById("pID");
+
+		//mudar a cor do H1
+		cor.style.color = "blue";
+
+
+
+
+
+
+
+	function enviarForm() {	// função só ira acontecer qnd aperta o botão
+
+		// Variavel Nome pega (get) no input do html
+		
+		/*atribui uma variavel Nome e pega (get) 
+		no elemento do ID nomeID que está no html*/
+		var nome = document.getElementById("nomeID").value;
+		
+		// Codigo para enviar para o console
+		console.log("seu nome é", nome);
+	} 
+
+</script>
+
+
+</body>
+
+</html>

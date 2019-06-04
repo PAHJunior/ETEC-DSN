@@ -35,12 +35,14 @@
                 data: $("#loginComAjax").serialize(),
                 success: function (data){
                     if ($.trim(data) == "1"){
-                        swal({
-                            title: "Atenção !",
-                            text: "Acesso liberado",
-                            type: "success",
-                        });
-                        $("#loginComAjax").trigger('reset');
+                        // swal({
+                        //     title: "Atenção !",
+                        //     text: "Acesso liberado",
+                        //     type: "success"
+                        // });
+                        // $("#loginComAjax").trigger('reset');
+
+                        window.location.href = "home";
                     }else{
                         swal({
                             title: "Atenção !",

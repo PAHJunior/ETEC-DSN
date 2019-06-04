@@ -11,3 +11,11 @@ E:\ETEC\DS1\2 Modulo\csharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.For
 E:\ETEC\DS1\2 Modulo\csharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.MainForm.resources
 E:\ETEC\DS1\2 Modulo\csharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.csproj.GenerateResource.Cache
 E:\ETEC\DS1\2 Modulo\csharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.exe
+E:\ETEC\DSN\2 Modulo\csharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.csprojResolveAssemblyReference.cache
+E:\ETEC\DSN\2 Modulo\csharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.Form1.resources
+E:\ETEC\DSN\2 Modulo\csharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.MainForm.resources
+E:\ETEC\DSN\2 Modulo\csharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.csproj.GenerateResource.Cache
+E:\ETEC\DSN\2 Modulo\csharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.exe
+E:\ETEC\DSN\2 Modulo\csharp\tabuleiroPOO\tabuleiroPOO\bin\Debug\tabuleiroPOO.exe
+E:\ETEC\DSN\2 Modulo\csharp\tabuleiroPOO\tabuleiroPOO\bin\Debug\tabuleiroPOO.pdb
+E:\ETEC\DSN\2 Modulo\csharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.pdb

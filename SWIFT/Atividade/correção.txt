@@ -1,0 +1,115 @@
+import UIKit
+
+class Banco{
+    var nome:String
+    
+    init(nome:String) {
+        self.nome = nome
+    }
+    
+    func imprimitDados(){
+        print(" -------- Cadastro Banco -------- ")
+        print("O banco \(self.nome) foi cadastrado com sucesso")
+    }
+}
+
+class Agencia{
+    var numero:Int
+    var banco:Banco
+    
+    init(numero:Int, banco:Banco) {
+        self.numero = numero
+        self.banco = banco
+    }
+    func imprimitDados(){
+        print(" -------- Cadastro Agencia -------- ")
+        print("A agencia \(self.numero) foi cadastrado com sucesso")
+        print("A banco \(self.banco.nome)")
+    }
+}
+
+class Conta{
+    var numero:Int
+    var saldo:Double
+    var agencia:Agencia
+    var titular:Cliente
+    
+    init(numero:Int, saldo:Double, agencia:Agencia, titular:Cliente) {
+        self.numero = numero
+        self.saldo = saldo
+        self.agencia = agencia
+        self.titular = titular
+    }
+    
+    func verSaldo(){
+        print("Saldo atual de : \(saldo)")
+    }
+
+    func depositar(valor:Double){
+        saldo = saldo + valor
+        print("Deposito realizado com sucesso, saldo atual de \(saldo)")
+        
+    }
+    func imprimitDados(){
+        print(" -------- Cadastro Conta -------- ")
+        print("Titular: \(self.titular)")
+        print("Saldo: \(self.saldo)")
+        print("Agencia: \(self.agencia)")
+    }
+}
+
+class Poupanca:Conta{
+    var cheque:Double = 0.0
+
+    func calcCheque(){
+        cheque = saldo * 0.3
+    }
+    func sacar(valor:Double){
+        saldo = saldo - valor
+        print("Saque efetuado com sucesso, saldo atual de \n(saldo)")
+    }
+}
+
+class Corrente:Conta{
+    func sacar(valor:Double){
+        saldo = saldo - valor - 1
+        print("Saque efetuado com sucesso, saldo atual de \n(saldo)")
+    }
+}
+
+class Cliente{
+    var nome:String
+    
+    init(nome:String) {
+        self.nome = nome
+    }
+}
+
+class Cli_Fisica:Cliente{
+    var rg:String
+    var cpf:String
+    
+    init(rg:String, cpf:String, nome:String) {
+        self.rg = rg
+        self.cpf = cpf
+        super.init(nome: nome)
+    }
+}
+
+class Cli_Juridico:Cliente{
+    var cnpj:String
+    var ie:String
+    
+    init(cnpj:String, ie:String, nome:String) {
+        self.cnpj = cnpj
+        self.ie = ie
+        super.init(nome: nome)
+    }
+}
+
+var banco1 = Banco(nome: "KillBank")
+var agencia1 = Agencia(numero: 1000, banco: banco1)
+var cliente1 = Cli_Fisica(rg: "1010120-21", cpf: "120210128", nome: "Paulo")
+
+banco1.imprimitDados()
+agencia1.imprimitDados()

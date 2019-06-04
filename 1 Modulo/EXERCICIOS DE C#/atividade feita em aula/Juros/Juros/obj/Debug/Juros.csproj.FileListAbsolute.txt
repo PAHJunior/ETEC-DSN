@@ -1,0 +1,6 @@
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\Juros\Juros\bin\Debug\Juros.exe.config
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\Juros\Juros\bin\Debug\Juros.exe
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\Juros\Juros\bin\Debug\Juros.pdb
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\Juros\Juros\obj\Debug\Juros.csprojResolveAssemblyReference.cache
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\Juros\Juros\obj\Debug\Juros.exe
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\Juros\Juros\obj\Debug\Juros.pdb

@@ -1,0 +1,60 @@
+﻿<!doctype html>
+<html>
+    <head>
+    
+        <style>
+            .teste{
+                background-color: #000;
+                color: blue;
+                padding: 10px;
+                border: 5px, solid, #CCC;
+                text-align: center;
+            }
+
+
+
+        </style>
+
+
+        <meta charset="utf-8">
+        <title>JQUERY - PROJETO 02</title>
+        
+        <!-- INSERÇÃO DA JQUERY REMOTA 
+        <script language="javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+        -->
+        <!-- INSERÇÃO DA JQUERY LOCAL -->
+        <script language="javascript" src="jquery/jquery-3.1.1.js"></script>
+        
+        <script language="javascript">
+        
+			//Primeiro teste com JQuery.
+
+			$(document).ready(function(){
+				
+					$("a").click(function(){
+						/*
+						$("#titulo").css("background-color", "#000");
+                        $("#titulo").css("color", "BLUE");
+                        $("#titulo").css("padding", "10px");
+                        $("#titulo").css("border", "5px solid #CCC");
+                        $("#titulo").css("text-align", "center");
+                        */
+
+                        $("#titulo").addClass('teste');
+                        					
+						});
+				
+				});
+        
+        </script>
+        
+    </head>
+    
+    <body>
+    
+    	<h1 id="titulo">TESTE TÍTULO</h1>	
+        <a href="#">TESTE DE EVENTO</a>
+    
+    </body>
+    
+</html>

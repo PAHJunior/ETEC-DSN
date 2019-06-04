@@ -1,0 +1,6 @@
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\NomeSobrenome\NomeSobrenome\bin\Debug\NomeSobrenome.exe.config
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\NomeSobrenome\NomeSobrenome\bin\Debug\NomeSobrenome.exe
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\NomeSobrenome\NomeSobrenome\bin\Debug\NomeSobrenome.pdb
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\NomeSobrenome\NomeSobrenome\obj\Debug\NomeSobrenome.csprojResolveAssemblyReference.cache
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\NomeSobrenome\NomeSobrenome\obj\Debug\NomeSobrenome.exe
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\NomeSobrenome\NomeSobrenome\obj\Debug\NomeSobrenome.pdb

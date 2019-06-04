@@ -1,0 +1,54 @@
+*{
+
+  box-sizing: border-box;
+
+}
+
+body{
+
+  margin: 0;
+
+}
+
+.vitrine{
+
+  width: 710px;
+  height: 920px;
+  margin: 10px auto;
+  background-color: #ccc;
+  padding: 5px
+
+}
+
+.container_img_peq{
+
+  width: 160px;
+  height: 100%;
+  margin: 0 auto;
+  background-color: #afaeae;
+  padding: 10px;
+  float: left;
+  position: relative;
+}
+
+.img_peq{
+
+  margin-right: 5px;
+
+}
+
+.container_img_grd{
+
+  width: 530px;
+  height: 910px;
+  margin-left: 170px;
+  background-color: #afaeae;
+  padding: 10px;
+  text-align: center;
+  
+}
+
+/* COLOCANDO A IMAGEM GRANDE NO CENTRO DA DIV (container_img_grd) */
+.container_img_grd img{
+  margin-top: 50%;
+}

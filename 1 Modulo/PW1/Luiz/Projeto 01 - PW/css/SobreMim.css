@@ -1,0 +1,29 @@
+#TOP{
+	height: 100%;
+	width: 40%;
+	background-color: #851944;
+}
+
+h1 {
+	color: #ffF;
+}
+
+.esquerda {
+	background-color: #D9E5E3;
+	border: 10px solid #C2CCCA;
+	width: 50%;
+	float: left;
+	margin: auto;
+	text-align: justify;
+}
+
+.direita {
+	background-color: #D9E5E3;
+	border: solid #C2CCCA;
+	width: 50%;
+	float: right;
+}
+
+h2{
+	clear: both;
+}

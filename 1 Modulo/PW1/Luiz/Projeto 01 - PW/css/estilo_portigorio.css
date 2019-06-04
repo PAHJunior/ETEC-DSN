@@ -1,0 +1,26 @@
+/* CSS CONTEUDO CENTRAL */
+#conteudo{
+	width: 80%;
+	margin: auto;
+}
+
+main figure{
+	border: 8px solid black;
+	margin-bottom: 20px;
+	box-sizing: border-box;
+	text-align: center;
+}
+
+.esquerda{
+	float: left;
+	width: 40%;
+}
+
+.direita{
+	float: right;
+	width: 40%;
+}
+
+.imagem{
+	width: 90%;
+}

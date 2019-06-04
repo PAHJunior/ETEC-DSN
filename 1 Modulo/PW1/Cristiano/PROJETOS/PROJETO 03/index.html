@@ -1,0 +1,77 @@
+﻿<!doctype html>
+<html>
+    <head>
+    
+        <meta charset="utf-8">
+        <title>JQUERY - PROJETO 02</title>
+        
+        <!-- INSERÇÃO DA JQUERY REMOTA 
+        <script language="javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+        -->
+        <!-- INSERÇÃO DA JQUERY LOCAL -->
+        <script language="javascript" src="jquery/jquery-3.1.1.js"></script>
+        
+        <script language="javascript">
+        
+			//Primeiro teste com JQuery.
+			
+			$(document).ready(function(){
+				
+					$("a#click01").click(function(){
+						
+						//*** CONCEITO DE SELEÇÃO  ***//
+						
+						//Configura a cor de fundo.
+						$("#titulo").css("background-color", "#000");
+						
+						//Configura a cor do texto.
+						$("#titulo").css("color", "#fff");
+						
+						//Troca o valor do texto.
+						$("#titulo").text("JQuery é vida!");
+						
+						//Oculta um elemento.
+						$("#titulo").hide();
+						
+						//Efeito Toggle.
+						$("#titulo").fadeToggle(5000); //INVERTE UMA CONDIÇÃO, ESTAVA INVISIVEL SE TORNA VISIVEL
+						
+						});
+						
+						$("a#click02").click(function(){
+						
+						//*** CONCEITO DE SELEÇÃO  ***//
+						
+						//Configura a cor de fundo.
+						$("#titulo").css("background-color", "#0F0");
+						
+						//Configura a cor do texto.
+						$("#titulo").css("color", "#fff");
+						
+						//Troca o valor do texto.
+						$("#titulo").text("JQuery é vida!");
+						
+						//Oculta um elemento.
+						$("#titulo").hide();
+						
+						//Efeito Toggle.
+						$("#titulo").fadeToggle(5000); //INVERTE UMA CONDIÇÃO, ESTAVA INVISIVEL SE TORNA VISIVEL
+						
+						});
+				});
+        
+        </script>
+        
+    </head>
+    
+    <body>
+    
+    	<h1 id="titulo">TESTE TÍTULO</h1>	
+        
+        <a id="click01" href="#">CLICK 01</a><br/>
+    	
+    	<a id="click02" href="#">CLICK 02</a>
+
+    </body>
+    
+</html>

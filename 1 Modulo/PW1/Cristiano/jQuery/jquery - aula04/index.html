@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+
+    <meta charset="utf-8">
+    <title>PW1 - JQUERY</title>
+    <script src="jquery.js"></script>
+
+    <style>
+      .testeJquery{
+        width: 500px;
+        border: 1px solid #000;
+        padding: 5px;
+        box-shadow: 5px 5px 100px #000;
+        margin-top: 50px;
+      }
+    </style>
+
+
+  </head>
+
+  <body>
+
+      <img id="imgMetro" src="img/sampa.jpg">
+
+      <br>
+
+      <input type="button" value="CSS">
+
+  </body>
+
+</html>
+
+<script>
+
+    $(document).ready(function(){
+
+        $(':button').click(function(){
+
+            $('#imgMetro').addClass('testeJquery');
+
+        });
+
+    });
+
+</script>

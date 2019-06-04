@@ -1,0 +1,47 @@
+*{
+
+  box-sizing: border-box;
+
+}
+body{
+
+  margin: 0;
+
+}
+
+.container{
+
+  width: 400px;
+  height: 400px;
+  margin: 10px auto;
+
+}
+
+.botao{
+
+  position: relative;
+  width: 100%;
+  padding: 10px;
+  background-color: #ccc;
+  border: 5px solid #000;
+  margin-top: 5px;
+  text-align: center;
+  font-weight: bold;
+  font-family: tahoma;
+
+}
+
+.botao:hover{
+
+  background-color: #000;
+  border: 5px solid #ccc;
+  color: #fff;
+
+}
+
+.destaque{
+
+  border-radius: 5px;
+  border: 10px solid #fff;
+  box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.8);
+}

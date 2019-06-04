@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" id="WebApp_ID" version="3.1">
+  <display-name>aula20190429</display-name>
+  <welcome-file-list>
+    <welcome-file>index</welcome-file>
+  </welcome-file-list>
+ 
+ 
+ <!-- ROTA DO INDEX -->
+  <servlet-mapping>
+  	<servlet-name>Principal</servlet-name>
+  	<url-pattern>/index</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  	<servlet-name>Principal</servlet-name>
+  	<jsp-file>/principal.jsp</jsp-file>
+  </servlet>
+  
+  
+  
+  <!-- ROTA DE LOGIN -->
+  <servlet-mapping>
+  	<servlet-name>Login</servlet-name>
+  	<url-pattern>/logar</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  	<servlet-name>Login</servlet-name>
+  	<jsp-file>/login.jsp</jsp-file>
+  </servlet>
+  
+  
+  <!-- ROTA DE HOME -->
+  <servlet-mapping>
+  	<servlet-name>Home</servlet-name>
+  	<url-pattern>/home</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  	<servlet-name>Home</servlet-name>
+  	<jsp-file>/home.jsp</jsp-file>
+  </servlet>
+  
+</web-app>

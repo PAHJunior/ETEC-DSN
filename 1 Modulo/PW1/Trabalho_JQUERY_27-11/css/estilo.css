@@ -1,0 +1,112 @@
+
+#area{
+	position:relative;
+	left:37%;
+	top:29%;
+	width:520px;
+	height:100%;
+}
+#area .my_form{
+	position:absolute;
+	display:block;   
+}
+.f_{
+	background-image: linear-gradient(to top, pink, salmon);
+	box-shadow: 10px 10px 30px #000;
+	height: 100%;
+	background-color: pink;
+	border-radius: 10px;	
+}
+
+.genero{
+	border-radius: 10px;
+	width: 200px;
+	height: 100%;
+}
+legend{
+	font-style:bold;
+	font-family: “Segoe UI”,”Arial”,”Times New Roman”;
+}
+.my_form .Label-Form{
+	position:absolute;
+	left:19px;
+	margin-right:5px;
+	width: 10em;
+	float: left;
+}
+
+
+.my_form input{
+	width:230px;
+}
+
+body{
+	background: #d6d6d6;	
+}
+
+#botao{
+	border: none;
+	text-transform: uppercase;
+	border-radius: 8px;
+	background-color: #d6d6d6;
+	color: black;
+	text-align: center;
+	margin-top: 10px;
+	height: 30px;
+	width: 100px;
+	border: none;
+	box-shadow: 1px 1px 10px black;
+	font-weight: bold;
+}
+
+#botao:hover{
+	background-color: salmon;
+	color: white;
+}
+
+label.error {
+	position: relative;
+	margin-left: 10px;
+	width: 200px;
+	margin-top: -22px;
+	color: black; 
+	padding-left: 0px; 
+	vertical-align: bottom; 
+}
+
+.opc{
+	width: 230px;
+	margin: 10px auto;
+}
+
+
+.exemplo2 input[type=radio], .exemplo2 input[type=checkbox]{
+    display:none; /* Esconde os inputs */
+}
+ 
+.exemplo2 label {
+    cursor: pointer;
+}
+.exemplo2 input[type="radio"] + label:before, .exemplo2 input[type="checkbox"] + label:before {
+    border: 1px solid #5D5C5C;
+    content: "\00a0";
+    display: inline-block;
+    font: 16px/1em sans-serif;
+    height: 16px;
+    margin: 0 .25em 0 0;
+    padding:0;
+    vertical-align: top;
+    width: 16px;
+    border-radius:4px;
+}
+ 
+.exemplo2 input[type="radio"]:checked + label:before, .exemplo2 input[type="checkbox"]:checked + label:before {
+    background: black;
+    color: white;
+    content: "\2713";
+    text-align: center;
+}
+ 
+.exemplo2 input[type=radio"]:checked + label:after, .exemplo2 input[type="checkbox"]:checked + label:after {
+    font-weight: bold;
+}

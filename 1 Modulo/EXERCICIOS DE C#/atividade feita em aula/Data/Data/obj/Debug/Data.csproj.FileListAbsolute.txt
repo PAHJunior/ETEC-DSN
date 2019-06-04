@@ -1,0 +1,6 @@
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\Data\Data\bin\Debug\Data.exe.config
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\Data\Data\bin\Debug\Data.exe
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\Data\Data\bin\Debug\Data.pdb
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\Data\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\Data\Data\obj\Debug\Data.exe
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\Data\Data\obj\Debug\Data.pdb

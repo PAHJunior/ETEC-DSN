@@ -1,0 +1,80 @@
+﻿<!doctype html>
+<html>
+
+    <head>
+    
+        <meta charset="utf-8">
+        <title>PROJETO WEB 03 - FORMULÁRIOS</title>
+        <link rel="stylesheet" type="text/css" href="estilo.css">
+        <script language="javascript" src="jquery/jquery-3.1.1.js"></script>
+        <script language="javascript" src="jquery_validation/dist/jquery.validate.js"></script>
+        <script language="javascript" src="js/validacao.js"></script>
+        
+        
+    </head>
+    
+    <body>
+    
+    	<div class="topo"></div>
+    
+    	<div class="formulario">
+        
+        	<form name="meu_form" id="meu_form" action="#" method="POST">
+            
+            	<h1>CADASTRO</h1>
+                
+                <fieldset>
+                
+                	<legend>Dados Pessoais</legend>
+                    
+                    <p>
+                    	<label for="nome">NOME:</label>
+                        <input type="text" id="nome" name="nome" 
+                        placeholder="Digite seu nome aqui.">
+                    </p>  
+                    
+                    <p>
+                    	<label for="nome">E-MAIL:</label>
+                        <input type="text" id="email" name="email" 
+                        placeholder="Digite seu e-mail aqui.">
+                    </p>    
+                    
+                    <p>
+                    	<label for="site">SITE:</label>
+                        <input type="text" id="site" name="site" 
+                        placeholder="http://www.site.com">
+                    </p>
+                    
+                    <p>
+                    	<label for="senha">SENHA:</label>
+                        <input type="password" id="senha" name="senha">
+                    </p>   
+                    
+                    <p>
+                    	<label for="senha2">SENHA:</label>
+                        <input type="password" id="senha2" name="senha2">
+                    </p>                                      
+                    
+   
+                     <p>
+                     
+                        Aceito os termos e condições:<input type="checkbox" name="termos" id="termos">
+                        
+                     </p>
+                
+                </fieldset>
+
+                <p>
+                	
+                    <input type="submit" value="ENVIAR">
+                                      
+                </p>    
+            
+            </form>
+        
+        </div>
+    	
+    
+    </body>
+    
+</html>

@@ -1,0 +1,14 @@
+Os cursos, períodos e vagas são:
+Administração, noite – 40 vagas
+Administração – acesso a vagas remanescentes, noite
+Administração – integrado ao ensino médio, integral – 40 vagas
+*Contabilidade, tarde – 40 vagas
+Eletroeletrônica, noite – 40 vagas
+Ensino médio, manhã – 40 vagas
+Informática, noite – 40 vagas
+Informática – acesso a vagas remanescentes, noite
+Logística, noite – 40 vagas
+Logística – acesso a vagas remanescentes, tarde
+Redes de computadores, tarde – 40 vagas
+
+*(para o curso de técnico em contabilidade, a certificação, desde 2 de junho de 2015, não prevê a obtenção de registro de conselho da categoria da classe, conforme o disposto na lei 12.249/10, que alterou o decreto lei 9.295 de 27 de maio de 1946, artigo 12, parágrafo segundo).

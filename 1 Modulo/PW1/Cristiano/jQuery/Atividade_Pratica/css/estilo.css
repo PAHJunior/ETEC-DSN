@@ -1,0 +1,67 @@
+body{
+	background-image: url("../IMAGENS/background.jpg");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+/* RODAPÉ */
+footer {
+    width: 100%;
+	text-align: center;
+    background-color: black;
+    color: white;
+    float: left;
+}
+
+
+/* MAIN */
+main{
+	text-align: center;
+}
+
+/* DIV DA IMG 'PRINCIPAL' */
+#img_Principal{
+	width: 500px;
+	height: 300px;
+}
+
+/* IMAGEM MENOR QUE VAI SER CLICADA*/
+img{
+	width: 150px;
+	height: 150px;
+}
+
+/* IMAGEM DENTRO DA DIV PRINCIPAL*/
+#img_Principal img {
+	width: 500px;
+	height: 300px;
+}
+
+/* COLOCANDO A IMAGEM NO "CENTRO"*/
+#img_Principal {
+	margin-left: 31%;
+}
+
+/*AFASTANDO AS IMG PEQUENAS DA DIV MAIOR*/
+.img_pequena{
+	margin-top: 30px;
+}
+
+/*EFEITOS DOS BOTAO */
+.efeito_01 img{
+	border: 1px solid #000;
+	padding: 5px;
+	box-shadow: 5px 5px 100px green;
+}
+
+.efeito_02 img{
+	border: 1px solid #000;
+	padding: 5px;
+	box-shadow: 5px 5px 100px blue;
+}
+
+.efeito_03 img{
+	border: 1px solid #000;
+	padding: 5px;
+	box-shadow: 5px 5px 100px red;
+}

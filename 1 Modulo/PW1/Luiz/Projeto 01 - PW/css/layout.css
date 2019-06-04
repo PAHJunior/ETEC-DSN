@@ -1,0 +1,80 @@
+/*CSS DO LAYOUT BASE DA PAGINA */
+
+body {
+	background-color: #F2FFFC;
+	font-size: 100%;
+}
+
+aside {
+	background-color: #3C1D3D;
+	color: #F2FFFC;
+	text-align: center;
+	width: 22%;
+}
+
+main{
+	float: left;
+	width: 80%;
+}
+
+main h1 {
+	text-align: center;
+	background-color: #851944;
+	color: #FFF;
+	padding: 25px;
+}
+
+p {
+	text-align: justify;
+	margin: 20px 0px;
+	line-height: 1.3;
+}
+
+footer {
+	background-color: #000;
+	color: #F2FFFC;
+	clear: both;
+}
+
+main a {
+	color: #851944;	
+}
+
+aside a {
+	color: inherit;
+}
+
+aside ul{
+	list-style: none;
+}
+
+aside a{
+	text-decoration: none;
+}
+
+.link_sociais li{
+	display: inline-block;
+}
+
+.container_main{
+	width: 50%;
+	margin: auto;
+}
+
+.navegacao-site{
+	float: right;
+	clear: right;
+	width: 20%;
+	border-left: 10px solid black;
+	border-bottom: 10px solid black;
+	box-sizing: border-box;
+}
+
+.jobs{
+	float: right;
+	width: 20%;
+	border-left: 10px solid black;
+	border-bottom: 10px solid black;
+	box-sizing: border-box;
+	   
+}

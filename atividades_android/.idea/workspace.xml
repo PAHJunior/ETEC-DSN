@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bdb51e8a-9629-4a07-a28a-f38ea7665a1d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/projeto_paulistão/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../atividades_csharp/projeto_Jogo/projeto_Jogo.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../atividades_csharp/projeto_Jogo/projeto_Jogo/Cenario.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../atividades_csharp/projeto_Jogo/projeto_Jogo/MainForm.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../atividades_csharp/projeto_Jogo/projeto_Jogo/MainForm.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../atividades_csharp/projeto_Jogo/projeto_Jogo/MainForm.resx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../atividades_csharp/projeto_Jogo/projeto_Jogo/PaletaCenario.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../atividades_csharp/projeto_Jogo/projeto_Jogo/PaletaCenario.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../atividades_csharp/projeto_Jogo/projeto_Jogo/PaletaCenario.resx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../atividades_csharp/projeto_Jogo/projeto_Jogo/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../atividades_csharp/projeto_Jogo/projeto_Jogo/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../atividades_csharp/projeto_Jogo/projeto_Jogo/app.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../atividades_csharp/projeto_Jogo/projeto_Jogo/projeto_Jogo.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atividades_csharp/panelColorido/panelColorido/bin/Debug/panelColorido.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../atividades_csharp/panelColorido/panelColorido/bin/Debug/panelColorido.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atividades_csharp/panelColorido/panelColorido/bin/Debug/panelColorido.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../atividades_csharp/panelColorido/panelColorido/bin/Debug/panelColorido.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atividades_csharp/panelColorido/panelColorido/obj/Debug/panelColorido.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../atividades_csharp/panelColorido/panelColorido/obj/Debug/panelColorido.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atividades_csharp/panelColorido/panelColorido/obj/Debug/panelColorido.csproj.GenerateResource.Cache" beforeDir="false" afterPath="$PROJECT_DIR$/../atividades_csharp/panelColorido/panelColorido/obj/Debug/panelColorido.csproj.GenerateResource.Cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atividades_csharp/panelColorido/panelColorido/obj/Debug/panelColorido.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../atividades_csharp/panelColorido/panelColorido/obj/Debug/panelColorido.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atividades_csharp/panelColorido/panelColorido/obj/Debug/panelColorido.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../atividades_csharp/panelColorido/panelColorido/obj/Debug/panelColorido.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atividades_csharp/panelColorido/panelColorido/obj/Debug/panelColorido.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../atividades_csharp/panelColorido/panelColorido/obj/Debug/panelColorido.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atividades_csharp/projeto_Jogo/projeto_Jogo/Foto.cs" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdb51e8a-9629-4a07-a28a-f38ea7665a1d" name="Default Changelist" comment="" />
+      <created>1558918099379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558918099379</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3260212" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Build" order="4" visible="true" weight="0.299509" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Gradle" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+    </layout>
+  </component>
+</project>

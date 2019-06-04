@@ -1,0 +1,6 @@
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\TABELA\TABELA\obj\Debug\TABELA.csprojResolveAssemblyReference.cache
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\TABELA\TABELA\bin\Debug\TABELA.exe.config
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\TABELA\TABELA\bin\Debug\TABELA.exe
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\TABELA\TABELA\bin\Debug\TABELA.pdb
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\TABELA\TABELA\obj\Debug\TABELA.exe
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\TABELA\TABELA\obj\Debug\TABELA.pdb

@@ -1,0 +1,6 @@
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\CalcularVelocidade\CalcularVelocidade\obj\Debug\CalcularVelocidade.csprojResolveAssemblyReference.cache
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\CalcularVelocidade\CalcularVelocidade\bin\Debug\CalcularVelocidade.exe.config
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\CalcularVelocidade\CalcularVelocidade\bin\Debug\CalcularVelocidade.exe
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\CalcularVelocidade\CalcularVelocidade\bin\Debug\CalcularVelocidade.pdb
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\CalcularVelocidade\CalcularVelocidade\obj\Debug\CalcularVelocidade.exe
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\CalcularVelocidade\CalcularVelocidade\obj\Debug\CalcularVelocidade.pdb

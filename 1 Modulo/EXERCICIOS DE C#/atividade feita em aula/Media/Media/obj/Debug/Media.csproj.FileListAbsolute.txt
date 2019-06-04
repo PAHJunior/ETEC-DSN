@@ -1,0 +1,6 @@
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\Media\Media\bin\Debug\Media.exe.config
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\Media\Media\bin\Debug\Media.exe
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\Media\Media\bin\Debug\Media.pdb
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\Media\Media\obj\Debug\Media.csprojResolveAssemblyReference.cache
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\Media\Media\obj\Debug\Media.exe
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\Media\Media\obj\Debug\Media.pdb

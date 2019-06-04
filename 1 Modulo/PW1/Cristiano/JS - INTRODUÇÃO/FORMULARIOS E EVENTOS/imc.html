@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html>
+
+    <head>
+
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/estilo.css">
+        <title>CÁLCULO DE IMC</title>
+    </head>
+
+    <body>
+
+
+        <div class="container sombra">
+
+            <div class="topo"></div>
+
+            <div class="menu">
+
+              <a href="imc.html">IMC</a>
+              <a href="media.html">MÉDIA</a>
+              <a href="triangulo.html">TRIÂNGULO</a>
+
+            </div>
+
+            <div class="content_titulo">CÁLCULO DE IMC</div>
+
+            <div class="content">
+
+                <form name="form_imc" method="POST">
+
+                    <label>Altura: </label>
+                    <input type="text" name="txt_altura" id="txt_altura">
+
+                    <label>Peso: </label>
+                    <input type="text" name="txt_peso" id="txt_peso">
+
+                    <input type="submit" value="CALCULAR" onclick="calculaIMC()">
+                </form>
+
+            </div>
+
+        </div>
+
+        <script src="funcoes.js"></script>
+    </body>
+
+</html>

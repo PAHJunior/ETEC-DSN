@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GoT</string>
+    <string name="game_of_thrones" />
+    <string name="temporada_6">Temporada 6</string>
+    <string name="temporada_4">Temporada 4</string>
+    <string name="temporada_1">Temporada 1</string>
+    <string name="temporada_5">Temporada 5</string>
+    <string name="temporada_3">temporada 3</string>
+    <string name="temporada_7">temporada 7</string>
+    <string name="temporada_2">Temporada 2</string>
+    <string name="game_of_thones">Game of Thones</string>
+</resources>

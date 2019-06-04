@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/estilo.css">
+        <script src="media.js"></script>
+        <title>CÁLCULO DE MÉDIA PONDERADA</title>
+        
+    </head>
+
+    <body>
+
+        <div class="container sombra">
+
+            <div class="content_titulo">CÁLCULO DE MÉDIA</div>
+
+            <div class="content">
+
+                <form name="formMedia" action="" method="POST">
+
+                    <label>Nota 1: </label>
+                    <input type="text" id="n1">
+
+                    <select id="p1">
+                        
+                        <option value="2">2</option>
+                        <option value="4">4</option>
+                        <option value="6">6</option>
+                        <option value="8">8</option>
+
+                    </select>
+
+                    <br><br>
+
+                    <label>Nota 2: </label>
+                    <input type="text" id="n2">
+
+                     <select id="p2">
+                        
+                        <option value="2">2</option>
+                        <option value="4">4</option>
+                        <option value="6">6</option>
+                        <option value="8">8</option>
+
+                    </select>
+
+                    <br><br>
+
+                    <input type="submit" value="CALCULAR" id="calcularMedia" onclick="media()">
+
+                </form>
+
+            </div>
+
+        </div>
+
+    </body>
+
+</html>

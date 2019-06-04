@@ -1,0 +1,47 @@
+﻿<!doctype html>
+<html>
+    <head>
+    
+        <meta charset="utf-8">
+        <title>JQUERY - PROJETO 02</title>
+        
+        <!-- INSERÇÃO DA JQUERY REMOTA -->
+        <script language="javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+        
+        <!-- INSERÇÃO DA JQUERY LOCAL -->
+        <script language="javascript" src="jquery/jquery-3.1.1.js"></script>
+        
+        <script language="javascript">
+        
+			//Primeiro teste com JQuery.
+			
+			$(document).ready(function(){
+				
+					$("a").click(function(){
+						
+						//*** CONCEITO DE ENCADEAMENTO  ***//
+						
+						//Configura a cor de fundo, cor do texto, oculta elemento, 
+						//efeito de toggle.
+						$("#titulo").css("background-color", "#000")
+						            .css("color", "#fff")
+									.text("JQuery é vida")
+									.hide()
+									.fadeToggle(3000);
+						
+						});
+				
+				});
+        
+        </script>
+        
+    </head>
+    
+    <body>
+    
+    	<h1 id="titulo">TESTE TÍTULO</h1>	
+        <a href="#">TESTE DE EVENTO</a>
+    
+    </body>
+    
+</html>

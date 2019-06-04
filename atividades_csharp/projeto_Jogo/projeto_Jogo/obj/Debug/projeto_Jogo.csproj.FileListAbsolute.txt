@@ -1,0 +1,18 @@
+D:\ETEC-DSN\atividades_csharp\projeto_Jogo\projeto_Jogo\bin\Debug\projeto_Jogo.exe.config
+D:\ETEC-DSN\atividades_csharp\projeto_Jogo\projeto_Jogo\bin\Debug\projeto_Jogo.exe
+D:\ETEC-DSN\atividades_csharp\projeto_Jogo\projeto_Jogo\bin\Debug\projeto_Jogo.pdb
+D:\ETEC-DSN\atividades_csharp\projeto_Jogo\projeto_Jogo\obj\Debug\projeto_Jogo.csprojResolveAssemblyReference.cache
+D:\ETEC-DSN\atividades_csharp\projeto_Jogo\projeto_Jogo\obj\Debug\projeto_Jogo.exe
+D:\ETEC-DSN\atividades_csharp\projeto_Jogo\projeto_Jogo\obj\Debug\projeto_Jogo.pdb
+D:\ETEC-DSN\atividades_csharp\projeto_Jogo\projeto_Jogo\obj\Debug\projeto_Jogo.MainForm.resources
+D:\ETEC-DSN\atividades_csharp\projeto_Jogo\projeto_Jogo\obj\Debug\projeto_Jogo.csproj.GenerateResource.Cache
+D:\ETEC-DSN\atividades_csharp\projeto_Jogo\projeto_Jogo\obj\Debug\projeto_Jogo.PaletaCenario.resources
+E:\ETEC\DSN\2 Modulo\csharp\projeto_Jogo\projeto_Jogo\bin\Debug\projeto_Jogo.exe.config
+E:\ETEC\DSN\2 Modulo\csharp\projeto_Jogo\projeto_Jogo\bin\Debug\projeto_Jogo.exe
+E:\ETEC\DSN\2 Modulo\csharp\projeto_Jogo\projeto_Jogo\bin\Debug\projeto_Jogo.pdb
+E:\ETEC\DSN\2 Modulo\csharp\projeto_Jogo\projeto_Jogo\obj\Debug\projeto_Jogo.csprojResolveAssemblyReference.cache
+E:\ETEC\DSN\2 Modulo\csharp\projeto_Jogo\projeto_Jogo\obj\Debug\projeto_Jogo.MainForm.resources
+E:\ETEC\DSN\2 Modulo\csharp\projeto_Jogo\projeto_Jogo\obj\Debug\projeto_Jogo.PaletaCenario.resources
+E:\ETEC\DSN\2 Modulo\csharp\projeto_Jogo\projeto_Jogo\obj\Debug\projeto_Jogo.csproj.GenerateResource.Cache
+E:\ETEC\DSN\2 Modulo\csharp\projeto_Jogo\projeto_Jogo\obj\Debug\projeto_Jogo.exe
+E:\ETEC\DSN\2 Modulo\csharp\projeto_Jogo\projeto_Jogo\obj\Debug\projeto_Jogo.pdb

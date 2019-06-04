@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6d5367d-9ec6-433b-80fc-035afa67e38a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../atividades_bd/script_Cinema/alterTable.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_bd/script_Cinema/alterTable.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_bd/script_Cinema/comandosEmAula.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_bd/script_Cinema/comandosEmAula.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_bd/script_Cinema/create.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_bd/script_Cinema/create.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_bd/script_Cinema/desafios.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_bd/script_Cinema/desafios.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_bd/script_Cinema/insert.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_bd/script_Cinema/insert.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_csharp/tabuleiroPOO/tabuleiroPOO/MainForm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_csharp/tabuleiroPOO/tabuleiroPOO/MainForm.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_csharp/tabuleiroPOO/tabuleiroPOO/Tabuleiro.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_csharp/tabuleiroPOO/tabuleiroPOO/Tabuleiro.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_csharp/tabuleiroPOO/tabuleiroPOO/bin/Debug/tabuleiroPOO.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_csharp/tabuleiroPOO/tabuleiroPOO/bin/Debug/tabuleiroPOO.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_csharp/tabuleiroPOO/tabuleiroPOO/bin/Debug/tabuleiroPOO.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_csharp/tabuleiroPOO/tabuleiroPOO/bin/Debug/tabuleiroPOO.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_csharp/tabuleiroPOO/tabuleiroPOO/obj/Debug/tabuleiroPOO.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_csharp/tabuleiroPOO/tabuleiroPOO/obj/Debug/tabuleiroPOO.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_csharp/tabuleiroPOO/tabuleiroPOO/obj/Debug/tabuleiroPOO.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_csharp/tabuleiroPOO/tabuleiroPOO/obj/Debug/tabuleiroPOO.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_php/compras/application/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_php/compras/application/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_php/compras/application/config/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_php/compras/application/config/autoload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_php/compras/application/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_php/compras/application/config/database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_php/compras/application/controllers/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_php/compras/application/controllers/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_php/compras/application/core/MY_Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_php/compras/application/core/MY_Controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_php/compras/application/helpers/geral_helper.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_php/compras/application/helpers/geral_helper.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_php/compras/application/views/includes/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_php/compras/application/views/includes/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_php/compras/application/views/includes/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_php/compras/application/views/includes/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_php/compras/application/views/v_login.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_php/compras/application/views/v_login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_php/compras/assets/css/bootstrap-datetimepicker.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_php/compras/assets/css/bootstrap-datetimepicker.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_php/compras/assets/css/bootstrap-imageupload.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_php/compras/assets/css/bootstrap-imageupload.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_php/compras/assets/css/bootstrapValidator.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_php/compras/assets/css/bootstrapValidator.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_php/compras/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_php/compras/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_php/compras/assets/datepicker/css/bootstrap-datepicker.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_php/compras/assets/datepicker/css/bootstrap-datepicker.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_php/compras/assets/datepicker/js/bootstrap-datepicker_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_php/compras/assets/datepicker/js/bootstrap-datepicker_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_php/compras/assets/datepicker/js/bootstrap-datetimepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_php/compras/assets/datepicker/js/bootstrap-datetimepicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_php/compras/assets/datepicker/js/moment.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_php/compras/assets/datepicker/js/moment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_php/compras/assets/datepicker/less/datepicker.less" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_php/compras/assets/datepicker/less/datepicker.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_php/compras/assets/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_php/compras/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_php/compras/assets/js/bootstrap-datetimepicker.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_php/compras/assets/js/bootstrap-datetimepicker.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_php/compras/assets/js/bootstrap-imageupload.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_php/compras/assets/js/bootstrap-imageupload.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_php/compras/assets/js/bootstrap-table-pt-BR.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_php/compras/assets/js/bootstrap-table-pt-BR.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_php/compras/assets/js/button-checkbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_php/compras/assets/js/button-checkbox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_php/compras/assets/js/funcoes_gerais.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_php/compras/assets/js/funcoes_gerais.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_php/compras/assets/js/pt-br.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_php/compras/assets/js/pt-br.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_php/compras/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_php/compras/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividades_php/compras/script_bd/script.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../atividades_php/compras/script_bd/script.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/desafios/desafio1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/desafios/desafio2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/script_BD_Python.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Ex1 Conexao.py" />
+        <option value="$PROJECT_DIR$/Ex2 Select.py" />
+        <option value="$PROJECT_DIR$/Ex3 SelectDef.py" />
+        <option value="$PROJECT_DIR$/desafios/desafio2.py" />
+        <option value="$PROJECT_DIR$/desafios/desafio1.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="100" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ComandosBasicosMySQL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ComandosBasicosMySQL" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ComandosBasicosMySQL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ComandosBasicosMySQL" type="462c0819:PsiDirectoryNode" />
+              <item name="desafios" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Course" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.desafio1">
+    <configuration name="Ex1 Conexao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ComandosBasicosMySQL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex1 Conexao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex2 Select" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ComandosBasicosMySQL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex2 Select.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex3 SelectDef" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ComandosBasicosMySQL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex3 SelectDef.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ComandosBasicosMySQL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/desafios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/desafio1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Ex1 Conexao" />
+      <item itemvalue="Python.Ex2 Select" />
+      <item itemvalue="Python.Ex3 SelectDef" />
+      <item itemvalue="Python.desafio1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.desafio1" />
+        <item itemvalue="Python.Ex3 SelectDef" />
+        <item itemvalue="Python.Ex2 Select" />
+        <item itemvalue="Python.Ex1 Conexao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6d5367d-9ec6-433b-80fc-035afa67e38a" name="Default Changelist" comment="" />
+      <created>1558133298489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558133298489</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24925596" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32857144" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Ex1 Conexao.py" />
+    <entry file="file://$PROJECT_DIR$/Ex2 Select.py" />
+    <entry file="file://$PROJECT_DIR$/Ex3 SelectDef.py" />
+    <entry file="file://$PROJECT_DIR$/script_BD_Python.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desafios/desafio2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desafios/desafio1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

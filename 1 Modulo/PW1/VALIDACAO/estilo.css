@@ -1,0 +1,74 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+
+	margin:0;
+	background: url('circuito.jpg')	no-repeat center center;
+	font-family: tahoma, verdana;
+	
+}
+
+.topo{
+
+  width: 100%;
+  height: 50px;
+  box-shadow: 10px 10px 30px #000;
+  background-image: linear-gradient(to top, #79797a, #ccc);
+
+}
+
+.formulario{
+
+  position: relative;
+  margin: 20px auto;
+  width: 400px;
+  padding: 20px;
+  background-color: rgba(255,255,255,0.5);
+  border-radius: 10px;
+  border: 2px solid #ccc;
+  box-shadow: 10px 10px 30px #000;
+}
+
+h1{
+
+  text-align: center;
+
+}
+
+fieldset{
+
+  border-radius: 5px;
+  border: 2px solid #9d9d9d;
+
+}
+
+legend{
+
+  font-family: tahoma;
+  font-weight: bold;
+  font-size: 25px;
+
+}
+
+p{
+
+  text-align: right;
+  margin-right: 100px;
+
+}
+
+label{
+
+  font-family: tahoma;
+  font-weight: bold;
+
+}
+
+.error{
+	
+		color:#fff;
+		font-size:8px;
+		font-family:tahoma;
+	
+	}
+

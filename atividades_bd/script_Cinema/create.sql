@@ -62,7 +62,7 @@ CREATE TABLE tbl_Exibicao(
     FK_id_filme int,
     FK_id_horario int,
     FK_id_sala int,
-    foreign key (FK_id_filme) references tbl_Filmes (id_filme),
-    foreign key (FK_id_horario) references tbl_horario (Id_horario),
-    foreign key (FK_id_sala) references tbl_Sala (Id_sala)
+    foreign key (FK_id_filme) references tbl_Filme(id_filme),
+    foreign key (FK_id_horario) references tbl_horario(Id_horario),
+    foreign key (FK_id_sala) references tbl_Sala(Id_sala)
 );

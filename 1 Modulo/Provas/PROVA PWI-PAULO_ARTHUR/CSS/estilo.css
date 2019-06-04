@@ -1,0 +1,142 @@
+*{
+	font-family: tahoma;
+}
+
+header figure img{
+	width: 100%;
+	height: 100px;
+}
+
+body{
+	background-image: url("../Imagens/img_topo.png");
+	background-repeat: no-repeat;
+	background-size: 1400px 100px;
+}
+
+
+
+main{
+	float: left;
+	margin-top: 120px;
+	margin-left: 250px;
+	width: 50%;
+}
+main h2{
+	margin-top: 5px;
+	text-align: justify;
+}
+
+main h6{
+	margin-top: 5px;
+	text-align: justify;
+}
+
+main figure img{
+	width: 100%;
+}
+
+aside{
+	margin-top: 120px;
+	margin-right: 10px;
+	float: right;
+	width: 200px;
+	height: 300px;
+	padding: 10px;
+	border: 1px solid black;
+	overflow-y: scroll;
+}
+
+
+.TEXTO p{
+	padding: 10px;
+	font-size: 18px;
+	text-align: justify;
+}
+
+.TEXTO{
+	margin-top: 10px;
+	border-top: 2px groove black;
+}
+
+/* MENU  HORIZONTAL*/
+#menu ul {
+	left: 25%;
+	position: absolute;
+	top:20px;
+	padding:0px;
+	background-color: white;
+	list-style:none;
+    text-align: center;
+    font-size: 18px;
+    width: 50%;
+    margin: 20px auto auto auto;
+}
+#menu ul li { 
+	display: inline;
+}
+
+.BORDA-MENU{
+	border-right: 2px solid black;
+}
+
+#menu ul li a {
+    padding: 5px 5px;
+    display: inline-block;
+    color: #333;
+    text-decoration: none;
+}
+
+#menu ul li a:hover {
+	color: blue;
+}
+
+
+
+
+footer{
+	margin-top: 10px;
+	float: left;
+	margin-bottom: 0;
+	background-color: darkblue;
+	width: 100%;
+	height: 150px;
+}
+
+footer h1{
+	text-align: center;
+	color: #FF4500;
+}
+
+footer h4{
+	text-align: center;
+	color: white;
+}
+
+.LISTA-CURSOS{
+	margin-left: 25%;
+	text-align: center;
+}
+
+.LISTA-CURSOS h2{
+	text-align: center;
+}
+
+.imagens-cursos{
+	margin-top: 10px;
+	float: left;
+	width: 100%;
+}
+
+.imagens-cursos figure{
+
+	margin-left: 25%;
+	padding-left: 40px;
+}
+
+.imagens-cursos figure img{
+	width: 31%;
+	padding-right: 3px;
+	padding-top: 5px;
+	height: 30%;
+}
+

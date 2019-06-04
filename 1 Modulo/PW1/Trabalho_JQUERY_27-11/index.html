@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+	<title></title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="css/estilo.css">
+	<script src="script.js"></script>
+	<script src="jquery/jquery-3.1.1.min.js"></script>
+	<script language="javascript" src="jquery/jquery-3.1.1.js"></script>
+	<script language="javascript" src="jquery_validation/dist/jquery.validate.js"></script>
+	<script language="javascript" src="js/validacao.js"></script>
+</head>
+
+<body>	
+	<div id="area">
+		<form class="my_form" id="cadastro">
+			<fieldset class="f_">
+				<legend>Formulário</legend>
+				
+				
+				<label for="nome">Nome:</label><br>
+				<input type="text" id="nome" name="nome" placeholder="Digite seu nome."><br>		
+
+				<!-- <label for="phoneNumber">Telefone:</label><br>
+				<input type="number" placeholder="Digite seu telefone." name="phoneNumber"><br> -->
+				
+
+				
+				<label for="nome">Email:</label><br>
+				<input type="text" placeholder="Digite seu email." id="email" name="email"><br>
+				
+
+				
+				<label for="senha">Senha:</label><br>
+				<input type="password" placeholder="Digite sua senha." id="senha" name="senha"><br>
+
+				
+				<label for="senha2">Confirmar senha:</label><br>
+				<input type="password" placeholder="Confirme sua senha." id="senha2" name="senha2"><br>
+				<br>
+
+				<fieldset class="genero">
+					<legend>Sexo:</legend>
+					<div class="exemplo2">
+						<input type="radio" value="Masculino" name="campo-radio" id="campo-radio1" checked/>
+						<label for="campo-radio1">Masculino</label><br>
+						<input type="radio" value="Feminino" name="campo-radio" id="campo-radio2" />
+						<label for="campo-radio2">Feminino</label>
+					</div>
+
+				</fieldset>
+					<label for="jungle">Como nos conheceu ?</label>
+					<br>
+					<select class="opc" id="jungle" name="jungle">
+						<option value=""></option>
+						<option value="1">Google</option>
+						<option value="2">Facebook</option>
+						<option value="3">Instagram</option>
+						<option value="4">Outro</option>
+					</select>
+
+				<center><input type="submit" value="ENVIAR" id="botao"></center>
+			</fieldset>
+		</form>
+	</div>
+</body>
+</html>

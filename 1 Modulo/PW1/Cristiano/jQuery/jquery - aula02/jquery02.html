@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+
+    <meta charset="utf-8">
+    <title>PW-1 - JQUERY</title>
+    <script src="jquery.js"></script>
+
+  </head>
+
+  <body>
+
+      <a href="#" id="link01" onclick="JSPuro()">TESTE JS</a>
+      <a href="#" id="link02">TESTE JQUERY</a>
+
+  </body>
+
+</html>
+
+<script>
+    function JSPuro(){
+
+      alert("EVENTO DE CLIQUE!");
+
+    }
+
+    window.onload = function(){
+
+        document.getElementById('link01').onclick = JSPuro();
+
+    }
+
+    $(document).ready(function(){
+
+        $('#link02').click(function(){
+
+            alert('TESTE COM JQUERY');
+
+        });
+
+    });
+
+
+
+
+
+</script>

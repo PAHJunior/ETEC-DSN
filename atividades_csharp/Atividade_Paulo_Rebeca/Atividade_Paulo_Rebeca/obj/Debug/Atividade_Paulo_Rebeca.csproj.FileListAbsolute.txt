@@ -1,0 +1,28 @@
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\bin\Debug\Atividade_Paulo_Rebeca.exe
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\bin\Debug\Atividade_Paulo_Rebeca.pdb
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\obj\Debug\Atividade_Paulo_Rebeca.csprojResolveAssemblyReference.cache
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\obj\Debug\Atividade_Paulo_Rebeca.MainForm.resources
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\obj\Debug\Atividade_Paulo_Rebeca.csproj.GenerateResource.Cache
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\obj\Debug\Atividade_Paulo_Rebeca.exe
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\obj\Debug\Atividade_Paulo_Rebeca.pdb
+C:\Users\Casa\Documents\SharpDevelop Projects\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\bin\Debug\Atividade_Paulo_Rebeca.exe
+C:\Users\Casa\Documents\SharpDevelop Projects\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\bin\Debug\Atividade_Paulo_Rebeca.pdb
+C:\Users\Casa\Documents\SharpDevelop Projects\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\obj\Debug\Atividade_Paulo_Rebeca.csprojResolveAssemblyReference.cache
+C:\Users\Casa\Documents\SharpDevelop Projects\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\obj\Debug\Atividade_Paulo_Rebeca.MainForm.resources
+C:\Users\Casa\Documents\SharpDevelop Projects\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\obj\Debug\Atividade_Paulo_Rebeca.csproj.GenerateResource.Cache
+C:\Users\Casa\Documents\SharpDevelop Projects\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\obj\Debug\Atividade_Paulo_Rebeca.exe
+C:\Users\Casa\Documents\SharpDevelop Projects\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\obj\Debug\Atividade_Paulo_Rebeca.pdb
+C:\Users\aluno.etec\Documents\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\bin\Debug\Atividade_Paulo_Rebeca.exe
+C:\Users\aluno.etec\Documents\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\bin\Debug\Atividade_Paulo_Rebeca.pdb
+C:\Users\aluno.etec\Documents\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\obj\Debug\Atividade_Paulo_Rebeca.csprojResolveAssemblyReference.cache
+C:\Users\aluno.etec\Documents\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\obj\Debug\Atividade_Paulo_Rebeca.MainForm.resources
+C:\Users\aluno.etec\Documents\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\obj\Debug\Atividade_Paulo_Rebeca.csproj.GenerateResource.Cache
+C:\Users\aluno.etec\Documents\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\obj\Debug\Atividade_Paulo_Rebeca.exe
+C:\Users\aluno.etec\Documents\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\obj\Debug\Atividade_Paulo_Rebeca.pdb
+E:\ETEC\DSN\2 Modulo\csharp\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\bin\Debug\Atividade_Paulo_Rebeca.exe
+E:\ETEC\DSN\2 Modulo\csharp\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\bin\Debug\Atividade_Paulo_Rebeca.pdb
+E:\ETEC\DSN\2 Modulo\csharp\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\obj\Debug\Atividade_Paulo_Rebeca.csprojResolveAssemblyReference.cache
+E:\ETEC\DSN\2 Modulo\csharp\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\obj\Debug\Atividade_Paulo_Rebeca.MainForm.resources
+E:\ETEC\DSN\2 Modulo\csharp\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\obj\Debug\Atividade_Paulo_Rebeca.csproj.GenerateResource.Cache
+E:\ETEC\DSN\2 Modulo\csharp\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\obj\Debug\Atividade_Paulo_Rebeca.exe
+E:\ETEC\DSN\2 Modulo\csharp\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\obj\Debug\Atividade_Paulo_Rebeca.pdb

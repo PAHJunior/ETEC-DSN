@@ -1,0 +1,6 @@
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\OperacaoBasicas\OperacaoBasicas\bin\Debug\OperacaoBasicas.exe.config
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\OperacaoBasicas\OperacaoBasicas\bin\Debug\OperacaoBasicas.exe
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\OperacaoBasicas\OperacaoBasicas\bin\Debug\OperacaoBasicas.pdb
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\OperacaoBasicas\OperacaoBasicas\obj\Debug\OperacaoBasicas.csprojResolveAssemblyReference.cache
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\OperacaoBasicas\OperacaoBasicas\obj\Debug\OperacaoBasicas.exe
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\OperacaoBasicas\OperacaoBasicas\obj\Debug\OperacaoBasicas.pdb

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+  <meta charset="utf-8">
+  <title>JavaScript Hello Word</title>
+
+</head>
+<body>
+  <script>
+    console.log("ERRO");
+    document.write("<h2>"+document.title+"</h2>");
+  </script>
+
+  <!--  BOTÃO DE TROCA DE OLÁ PARA HELLO -->
+  <button type="button" onclick="mFuncao();">Translate</button>
+
+  <p id="paragrafo">Olá</p>
+
+  <script>
+
+    function mFuncao(){
+      var x = document.getElementById("paragrafo");
+          //x.innerHTML="hello!";
+          x.innerHTML="Hello";
+        }
+
+      </script>
+
+      <script>
+
+        function trocaImagem(){        
+          var elemento=document.getElementById("myimage");  
+          if (elemento.src.match("acesa")) {
+            elemento.src="img/apagada.jpg";
+          }else {
+            elemento.src="img/acesa.jpg";
+          }
+        }
+
+      </script>
+      <p>Clique na lâmpada para ligar/desligar a luz</p>
+      <p><img id="myimage" onclick="trocaImagem()"
+        src="img/apagada.jpg" width=100 height=180></p>
+
+
+
+
+
+      </body>
+      </html>

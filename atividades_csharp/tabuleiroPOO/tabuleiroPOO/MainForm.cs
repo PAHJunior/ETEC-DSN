@@ -62,11 +62,11 @@ namespace tabuleiroPOO
 			for(int j = 0; j < 3; j++)
 			{
 				for(int i = 0; i < 10; i++){
-					Tabuleiro[] tale = new Tabuleiro();
-					
+					Tabuleiro[] tale = new Tabuleiro[i];			
 					tale[i] = new Tabuleiro();
 					tale[j].Top = 50 + 61 * i;
 					tale[i].Left = 50 + 61 * i;
+					tale[i].Parent = this;
 				}
 			}
 		}

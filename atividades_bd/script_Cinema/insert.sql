@@ -35,6 +35,15 @@ INSERT INTO tbl_Diretor (nome_diretor, Nacionalidade, Dt_nascimento, Sexo) VALUE
 INSERT INTO tbl_Diretor (nome_diretor, Nacionalidade, Dt_nascimento, Sexo) VALUES ("Alan Rickman",    "Inglaterra",   '1946/02/21',   'M');
 INSERT INTO tbl_Diretor (nome_diretor, Nacionalidade, Dt_nascimento, Sexo) VALUES ("Fernando Meirelles",  "Brasil",   '1965/11/09',   'M');
 
+#INSERT'S NA TABELA GENERO.
+INSERT INTO tbl_Genero (Genero) VALUES ("Terror");
+INSERT INTO tbl_Genero (Genero) VALUES ("Ação");
+INSERT INTO tbl_Genero (Genero) VALUES ("Comedia");
+INSERT INTO tbl_Genero (Genero) VALUES ("Drama");
+INSERT INTO tbl_Genero (Genero) VALUES ("Suspense");
+INSERT INTO tbl_Genero (Genero) VALUES ("Ficção");
+INSERT INTO tbl_Genero (Genero) VALUES ("Romance");
+INSERT INTO tbl_Genero (Genero) VALUES ("Animação");
 
 #INSERT'S NA TABELA FILME.
 INSERT INTO tbl_Filme (Nome_filme, Ano_lancamento, Duracao, FK_Id_genero, FK_Id_diretor) VALUES ("Viva: A Vida é Uma Festa",    2017,   105,    8,  5);
@@ -68,17 +77,6 @@ INSERT INTO tbl_Filme (Nome_filme, Ano_lancamento, Duracao, FK_Id_genero, FK_Id_
 INSERT INTO tbl_Filme (Nome_filme, Ano_lancamento, Duracao, FK_Id_genero, FK_Id_diretor) VALUES ("Transformers",    2007,   150,    2,  4);
 INSERT INTO tbl_Filme (Nome_filme, Ano_lancamento, Duracao, FK_Id_genero, FK_Id_diretor) VALUES ("Ilha do Medo",    2010,   139,    5,  1);
 
-
-#INSERT'S NA TABELA GENERO.
-INSERT INTO tbl_Genero (Genero) VALUES ("Terror");
-INSERT INTO tbl_Genero (Genero) VALUES ("Ação");
-INSERT INTO tbl_Genero (Genero) VALUES ("Comedia");
-INSERT INTO tbl_Genero (Genero) VALUES ("Drama");
-INSERT INTO tbl_Genero (Genero) VALUES ("Suspense");
-INSERT INTO tbl_Genero (Genero) VALUES ("Ficção");
-INSERT INTO tbl_Genero (Genero) VALUES ("Romance");
-INSERT INTO tbl_Genero (Genero) VALUES ("Animação");
-
 INSERT INTO Filme_e_Ator values
     (2,1),
     (3,1),
@@ -109,3 +107,101 @@ INSERT INTO Filme_e_Ator values
     (1,13),
     (1,14),
     (1,15);
+
+
+INSERT INTO tbl_sala (nome, capacidade) VALUES 
+	("Sala 01", 120),
+    ("Sala 02", 130),
+    ("Sala 03", 180),
+    ("Sala 04", 200),
+    ("Sala 05", 220),
+    ("Sala 06", 420),
+    ("Sala 07", 320),
+    ("Sala 08", 120),
+    ("Sala 09", 255),
+    ("Sala 10", 399),
+    ("Sala 11", 123),
+    ("Sala 12", 342),
+    ("Sala 13", 531),
+    ("Sala 14", 599),
+    ("Sala 15", 421);
+
+INSERT INTO tbl_horario (hora) VALUES
+('13:00'),
+('14:00'),
+('15:30'),
+('16:30'),
+('17:00'),
+('18:00'),
+('19:30'),
+('20:30'),
+('21:00'),
+('22:00'),
+('22:30'),
+('13:30'),
+('22:00'),
+('20:00'),
+('19:00');
+
+
+INSERT INTO tbl_exibicao (FK_Id_filme, FK_id_horario, FK_id_sala) values
+(1, 1, 1),
+(1, 1, 2),
+(2, 2, 3),
+(2, 2, 4),
+(3, 3, 5),
+(3, 3, 6),
+(4, 4, 7),
+(4, 4, 8),
+(5, 5, 9),
+(5, 5, 10),
+(6, 6, 11),
+(6, 6, 12),
+(7, 7, 13),
+(7, 7, 14),
+(8, 8, 15),
+(8, 8, 1),
+(9, 9, 2),
+(9, 9, 3),
+(10, 10, 4),
+(10, 10, 5),
+(11, 11, 6),
+(11, 11, 7),
+(12, 12, 8),
+(12, 12, 9),
+(13, 13, 10),
+(13, 13, 11),
+(14, 14, 12),
+(14, 14, 13),
+(15, 15, 14),
+(15, 15, 15),
+(16, 1, 1),
+(16, 1, 2),
+(17, 2, 3),
+(17, 2, 4),
+(18, 3, 5),
+(18, 3, 6),
+(19, 4, 7),
+(19, 4, 8),
+(20, 5, 9),
+(20, 5, 10),
+(21, 6, 11),
+(21, 6, 12),
+(22, 7, 13),
+(22, 7, 14),
+(23, 8, 15),
+(23, 8, 1),
+(24, 9, 2),
+(24, 9, 3),
+(25, 10, 4),
+(25, 10, 5),
+(26, 11, 6),
+(26, 11, 7),
+(27, 12, 8),
+(27, 12, 9),
+(28, 13, 10),
+(28, 13, 11),
+(29, 14, 12),
+(29, 14, 13),
+(30, 15, 14),
+(30, 15, 15);

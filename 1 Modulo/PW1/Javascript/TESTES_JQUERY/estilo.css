@@ -1,0 +1,20 @@
+*{
+	margin-left: 0px;
+	margin-top: 0px;
+}
+
+body{
+	background-color: #ccc;
+}
+
+#imagemCentral{
+	width: 500px;
+	height: 400px;
+	background-color: #fff;
+	margin: 50px auto;
+}
+
+#imagemCentral img{
+	margin-left: 30%;
+	margin-top: 15%;	
+}
