@@ -12,3 +12,10 @@ D:\ETEC-DSN\atividades_csharp\jogo_projeto\jogo_projeto\obj\Debug\jogo_projeto.M
 D:\ETEC-DSN\atividades_csharp\jogo_projeto\jogo_projeto\obj\Debug\jogo_projeto.csproj.GenerateResource.Cache
 D:\ETEC-DSN\atividades_csharp\jogo_projeto\jogo_projeto\obj\Debug\jogo_projeto.exe
 D:\ETEC-DSN\atividades_csharp\jogo_projeto\jogo_projeto\obj\Debug\jogo_projeto.pdb
+D:\ETEC-DSN\atividades_csharp\jogo_projeto__CriandoMapa\jogo_projeto\bin\Debug\jogo_projeto.exe
+D:\ETEC-DSN\atividades_csharp\jogo_projeto__CriandoMapa\jogo_projeto\bin\Debug\jogo_projeto.pdb
+D:\ETEC-DSN\atividades_csharp\jogo_projeto__CriandoMapa\jogo_projeto\obj\Debug\jogo_projeto.csprojResolveAssemblyReference.cache
+D:\ETEC-DSN\atividades_csharp\jogo_projeto__CriandoMapa\jogo_projeto\obj\Debug\jogo_projeto.MainForm.resources
+D:\ETEC-DSN\atividades_csharp\jogo_projeto__CriandoMapa\jogo_projeto\obj\Debug\jogo_projeto.csproj.GenerateResource.Cache
+D:\ETEC-DSN\atividades_csharp\jogo_projeto__CriandoMapa\jogo_projeto\obj\Debug\jogo_projeto.exe
+D:\ETEC-DSN\atividades_csharp\jogo_projeto__CriandoMapa\jogo_projeto\obj\Debug\jogo_projeto.pdb
