@@ -8,7 +8,7 @@
             $retorno = $this->db->query("select * from usuarios
                                         where usuario = '$usuario'
                                         and senha = '$senha'
-                                        and estatus = ''");
+                                        and estatus = 'A'");
 
             if($retorno->num_rows() > 0){
                 return 1;

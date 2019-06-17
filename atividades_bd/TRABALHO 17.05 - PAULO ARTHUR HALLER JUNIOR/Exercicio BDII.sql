@@ -252,7 +252,8 @@ INSERT INTO tbl_Cliente (nome_cliente, cpf_cliente, nasc_cliente, email) VALUES
 	('Almir Leon','37768351767','2004/12/30','almir@leon.com'),
 	('Franklin Senna','38579791918','1987/10/12','franklin@senna.com'),
 	('Carlos Nunes','21404485001','1991/03/20','carlos@nunes.com'),
-	('Carlos Adao','58212236118','1991/03/20','carlos@adao.com');
+	('Carlos Adao','58212236118','1991/03/20','carlos@adao.com'),
+    ('Paulo','28332236118','1999/03/20','paulo@adao.com');
 
 -- -----------------------------------------------------
 -- Insert's tbl_bibliotecaria
@@ -634,9 +635,12 @@ create view vw_exer2 as
 	select a.nome_livro, b.nome_categoria from tbl_livros a
 	join tbl_categoria  b on a.fk_Categoria = b.codigo_categoria where b.nome_categoria in ("contos", "poesia", "aventura");
 
-
 #  Exercicio 3
 select nome_categoria from tbl_categoria where !exists (select * from tbl_livros where tbl_livros.fk_Categoria = tbl_categoria.codigo_categoria);
+select a.nome_categoria from tbl_categoria a
+	left join tbl_livros b on a.codigo_categoria = b.fk_categoria
+    where b.fk_categoria is null;
+    
 #  Exercicio 4
 select a.nome_livro, b.nome_categoria, c.nome_editora from tbl_livros a
 join tbl_categoria  b on a.fk_Categoria = b.codigo_categoria
@@ -711,8 +715,23 @@ union
 select nome_cliente a, nome_bibliotecario b from tbl_emprestimo c
 	right join tbl_cliente a ON a.codigo_cliente = c.FK_cliente
     right join tbl_bibliotecario b on b.codigo_bibliotecario = c.fk_bibliotecario;
-    
+
     
 select nome_livro a, nome_editora b from tbl_livros a
 	cross join tbl_editora b;
     
+    
+    
+select * from tbl_cliente;
+select * from tbl_emprestimo;
+
+DELIMITER $
+drop trigger trg_indica_livro;
+create trigger trg_indica_livro after insert on tbl_cliente for each row
+begin
+	insert into tbl_emprestimo (retirado, devolucao, fk_bibliotecaio, fk_cliente)
+    values (now(), null, 1, codigo_cliente);
+end $
+
+INSERT INTO tbl_Cliente (nome_cliente, cpf_cliente, nasc_cliente, email) VALUES 
+	('Paulo da Silva','78381786155','1980/01/01', 'paulo@dasilva.com');

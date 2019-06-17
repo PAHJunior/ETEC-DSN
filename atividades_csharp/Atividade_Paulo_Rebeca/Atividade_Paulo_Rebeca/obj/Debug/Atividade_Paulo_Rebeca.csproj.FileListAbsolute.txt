@@ -26,3 +26,10 @@ E:\ETEC\DSN\2 Modulo\csharp\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\obj\De
 E:\ETEC\DSN\2 Modulo\csharp\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\obj\Debug\Atividade_Paulo_Rebeca.csproj.GenerateResource.Cache
 E:\ETEC\DSN\2 Modulo\csharp\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\obj\Debug\Atividade_Paulo_Rebeca.exe
 E:\ETEC\DSN\2 Modulo\csharp\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\obj\Debug\Atividade_Paulo_Rebeca.pdb
+D:\ETEC-DSN\atividades_csharp\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\bin\Debug\Atividade_Paulo_Rebeca.exe
+D:\ETEC-DSN\atividades_csharp\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\bin\Debug\Atividade_Paulo_Rebeca.pdb
+D:\ETEC-DSN\atividades_csharp\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\obj\Debug\Atividade_Paulo_Rebeca.csprojResolveAssemblyReference.cache
+D:\ETEC-DSN\atividades_csharp\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\obj\Debug\Atividade_Paulo_Rebeca.MainForm.resources
+D:\ETEC-DSN\atividades_csharp\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\obj\Debug\Atividade_Paulo_Rebeca.csproj.GenerateResource.Cache
+D:\ETEC-DSN\atividades_csharp\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\obj\Debug\Atividade_Paulo_Rebeca.exe
+D:\ETEC-DSN\atividades_csharp\Atividade_Paulo_Rebeca\Atividade_Paulo_Rebeca\obj\Debug\Atividade_Paulo_Rebeca.pdb

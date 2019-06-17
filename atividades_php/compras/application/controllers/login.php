@@ -28,5 +28,11 @@ class Login extends CI_Controller
         echo $retorno;
 
     }
+
+    public function logout()
+    {
+        $this->session->sess_destroy();
+        redirect('/');
+    }
 }
 ?>
