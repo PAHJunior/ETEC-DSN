@@ -1,0 +1,7 @@
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\atividade_chsarp_19-06\atividade_chsarp_19-06\obj\Debug\atividade_chsarp_19-06.csprojResolveAssemblyReference.cache
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\atividade_chsarp_19-06\atividade_chsarp_19-06\obj\Debug\atividade_chsarp_19_06.MainForm.resources
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\atividade_chsarp_19-06\atividade_chsarp_19-06\obj\Debug\atividade_chsarp_19-06.csproj.GenerateResource.Cache
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\atividade_chsarp_19-06\atividade_chsarp_19-06\bin\Debug\atividade_chsarp_19-06.exe
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\atividade_chsarp_19-06\atividade_chsarp_19-06\bin\Debug\atividade_chsarp_19-06.pdb
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\atividade_chsarp_19-06\atividade_chsarp_19-06\obj\Debug\atividade_chsarp_19-06.exe
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\atividade_chsarp_19-06\atividade_chsarp_19-06\obj\Debug\atividade_chsarp_19-06.pdb

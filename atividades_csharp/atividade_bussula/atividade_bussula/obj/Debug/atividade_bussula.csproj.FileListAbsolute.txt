@@ -1,0 +1,14 @@
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\atividade_bussula\atividade_bussula\bin\Debug\atividade_bussula.exe
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\atividade_bussula\atividade_bussula\bin\Debug\atividade_bussula.pdb
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\atividade_bussula\atividade_bussula\obj\Debug\atividade_bussula.csprojResolveAssemblyReference.cache
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\atividade_bussula\atividade_bussula\obj\Debug\atividade_bussula.MainForm.resources
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\atividade_bussula\atividade_bussula\obj\Debug\atividade_bussula.csproj.GenerateResource.Cache
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\atividade_bussula\atividade_bussula\obj\Debug\atividade_bussula.exe
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\atividade_bussula\atividade_bussula\obj\Debug\atividade_bussula.pdb
+D:\ETEC-DSN\atividades_csharp\atividade_bussula\atividade_bussula\obj\Debug\atividade_bussula.csprojResolveAssemblyReference.cache
+D:\ETEC-DSN\atividades_csharp\atividade_bussula\atividade_bussula\obj\Debug\atividade_bussula.MainForm.resources
+D:\ETEC-DSN\atividades_csharp\atividade_bussula\atividade_bussula\obj\Debug\atividade_bussula.csproj.GenerateResource.Cache
+D:\ETEC-DSN\atividades_csharp\atividade_bussula\atividade_bussula\obj\Debug\atividade_bussula.exe
+D:\ETEC-DSN\atividades_csharp\atividade_bussula\atividade_bussula\bin\Debug\atividade_bussula.exe
+D:\ETEC-DSN\atividades_csharp\atividade_bussula\atividade_bussula\bin\Debug\atividade_bussula.pdb
+D:\ETEC-DSN\atividades_csharp\atividade_bussula\atividade_bussula\obj\Debug\atividade_bussula.pdb

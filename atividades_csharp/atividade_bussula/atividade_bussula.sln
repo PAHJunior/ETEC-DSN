@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "atividade_bussula", "atividade_bussula\atividade_bussula.csproj", "{1E82CDAF-C7A8-49FB-9DF2-3520B7A1BF0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E82CDAF-C7A8-49FB-9DF2-3520B7A1BF0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E82CDAF-C7A8-49FB-9DF2-3520B7A1BF0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E82CDAF-C7A8-49FB-9DF2-3520B7A1BF0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E82CDAF-C7A8-49FB-9DF2-3520B7A1BF0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
