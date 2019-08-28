@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".cadastro_endereco"
+    tools:showIn="@layout/activity_cadastro_endereco">
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="100dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="100dp"
+        android:layout_marginRight="100dp"
+        android:text="AVANÇAR"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/edit_estado" />
+
+    <EditText
+        android:id="@+id/edit_estado"
+        android:layout_width="300dp"
+        android:layout_height="46dp"
+        android:layout_marginTop="8dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="@+id/textView10"
+        app:layout_constraintStart_toStartOf="@+id/textView10"
+        app:layout_constraintTop_toBottomOf="@+id/textView10" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="300dp"
+        android:layout_height="33dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/text_estado"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="@+id/edit_cidade"
+        app:layout_constraintStart_toStartOf="@+id/edit_cidade"
+        app:layout_constraintTop_toBottomOf="@+id/edit_cidade" />
+
+    <EditText
+        android:id="@+id/edit_bairro"
+        android:layout_width="300dp"
+        android:layout_height="46dp"
+        android:layout_marginTop="8dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="@+id/textView8"
+        app:layout_constraintStart_toStartOf="@+id/textView8"
+        app:layout_constraintTop_toBottomOf="@+id/textView8" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="300dp"
+        android:layout_height="33dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/text_bairro"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="@+id/edit_logradouro"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/edit_logradouro"
+        app:layout_constraintTop_toBottomOf="@+id/edit_logradouro" />
+
+    <EditText
+        android:id="@+id/edit_cep"
+        android:layout_width="300dp"
+        android:layout_height="46dp"
+        android:layout_marginTop="8dp"
+        android:autofillHints=""
+        android:ems="10"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="@+id/textView6"
+        app:layout_constraintStart_toStartOf="@+id/textView6"
+        app:layout_constraintTop_toBottomOf="@+id/textView6" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="300dp"
+        android:layout_height="33dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/text_logradouro"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="@+id/edit_cep"
+        app:layout_constraintStart_toStartOf="@+id/edit_cep"
+        app:layout_constraintTop_toBottomOf="@+id/edit_cep" />
+
+    <EditText
+        android:id="@+id/edit_logradouro"
+        android:layout_width="300dp"
+        android:layout_height="46dp"
+        android:layout_marginTop="8dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="@+id/textView7"
+        app:layout_constraintStart_toStartOf="@+id/textView7"
+        app:layout_constraintTop_toBottomOf="@+id/textView7" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="300dp"
+        android:layout_height="33dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginRight="20dp"
+        android:text="@string/text_cep"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="300dp"
+        android:layout_height="33dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/text_cidade"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="@+id/edit_bairro"
+        app:layout_constraintStart_toStartOf="@+id/edit_bairro"
+        app:layout_constraintTop_toBottomOf="@+id/edit_bairro" />
+
+    <EditText
+        android:id="@+id/edit_cidade"
+        android:layout_width="300dp"
+        android:layout_height="46dp"
+        android:layout_marginTop="8dp"
+        android:autofillHints=""
+        android:ems="10"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="@+id/textView5"
+        app:layout_constraintStart_toStartOf="@+id/textView5"
+        app:layout_constraintTop_toBottomOf="@+id/textView5" />
+</android.support.constraint.ConstraintLayout>

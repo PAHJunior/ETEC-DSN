@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">projeto_pw2</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="localizar">Localizar</string>
+    <string name="todo">TODO</string>
+    <string name="string_cleinte">CLIENTE</string>
+    <string name="cpf">CPF</string>
+</resources>

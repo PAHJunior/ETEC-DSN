@@ -14,6 +14,9 @@ void setup()
 
 void loop()
 {
+   pinMode(pinkLED, OUTPUT); 
+  pinMode(greenLED, OUTPUT); 
+  pinMode(blueLED, OUTPUT);
   digitalWrite(pinkLED,HIGH); //turns the LED on
   delay(1000); //waits 3 seconds
   digitalWrite(pinkLED, LOW); //turns off the red LED

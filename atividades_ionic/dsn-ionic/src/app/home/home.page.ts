@@ -11,11 +11,11 @@ export class HomePage {
 
   constructor(public alertController: AlertController) {}
   
-  async presentAlert() {
+  async presentAlert(form) {
     const alert = await this.alertController.create({
       header: 'DSN - IONIC',
       subHeader: 'IONIC',
-      message: 'This is ETEC MAN.',
+      message: `This is ETEC MAN. ${form}`,
       buttons: ['OK']
     });
   

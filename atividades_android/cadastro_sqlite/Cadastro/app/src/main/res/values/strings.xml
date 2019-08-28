@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Cadastro</string>
+    <string name="action_settings">Configurações</string>
+    <string name="title_activity_page_cliente">Cliente</string>
+    <string name="title_activity_cadastra_cliente">Cadastrar</string>
+    <string name="title_activity_cadastro_endereco">cadastro_endereco</string>
+    <string name="avan_ar">AVANÇAR</string>
+    <string name="cancelar">CANCELAR</string>
+
+    <string name="text_nome">Nome</string>
+    <string name="text_cpf">CPF</string>
+    <string name="text_email">E-mail</string>
+    <string name="text_telefone">Telefone</string>
+    <string name="text_cep">CEP</string>
+    <string name="text_logradouro">Logradouro</string>
+    <string name="text_bairro">Bairro</string>
+    <string name="text_cidade">Cidade</string>
+    <string name="text_estado">Estado</string>
+    <string name="text_sair">Sair</string>
+    <string name="action_avancar">Avançar</string>
+    <string name="action_cancelar">Cancelar</string>
+    <string name="action_confirmar">Confirmar</string>
+    <string name="title_aviso">Aviso</string>
+    <string name="msg_aviso">Existem campos invalidos ou em brancos</string>
+</resources>
