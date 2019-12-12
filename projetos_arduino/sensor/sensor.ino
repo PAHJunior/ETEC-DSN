@@ -1,13 +1,13 @@
 #include <Ultrasonic.h>
 
-const int echoPin = 13;
-const int trigPin = 12;
+const int trigPin = 4;
+const int echoPin = 5;
 const int ledRed = 2;
 const int ledBlue = 4;
 const int ledGreen = 3;
 const int buzz = 6;
 
-Ultrasonic ultrasonic(12,13);
+Ultrasonic ultrasonic(trigPin,echoPin);
 
 void setup() {
   Serial.begin(9600);
@@ -16,7 +16,6 @@ void setup() {
   pinMode(ledRed, OUTPUT);
   pinMode(ledGreen, OUTPUT);
   pinMode(ledBlue, OUTPUT);
-  pinMode(buzz, OUTPUT);
 }
 
 void loop() {
@@ -24,24 +23,20 @@ void loop() {
 
   if(distancia < 15){
     digitalWrite(ledRed, HIGH);
-    tone(buzz, 2999, 50);
     delay(150);
     digitalWrite(ledRed, LOW);   
   }
   else if (distancia < 5){
     digitalWrite(ledRed, HIGH);
-    tone(buzz, 2999, 50);
     delay(0);
   }
   else if (distancia < 25){
     digitalWrite(ledGreen, HIGH);
-    tone(buzz, 2999, 300);
-    delay(400);
+    delay(1000);
     digitalWrite(ledGreen, LOW);
   }
   else if ((distancia >= 25) && (distancia <= 30)){
     digitalWrite(ledBlue, HIGH);
-    tone(buzz, 2999, 500);
     delay(700);
     digitalWrite(ledBlue, LOW);
   }
@@ -56,5 +51,5 @@ void loop() {
 
   Serial.print("Distancia em CM: ");
   Serial.println(distancia);
-  delay(250);
+  delay(300);
 }
